@@ -4,8 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa4f4e6-f657-4c45-aa61-36dbcfb2d24c" name="변경" comment="edit react design 01">
-      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
+    <list default="true" id="caa4f4e6-f657-4c45-aa61-36dbcfb2d24c" name="변경" comment="edit react design 01-01">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jinouk/lostark/controller/armoriesAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jinouk/lostark/controller/charactersAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jinouk/lostark/controller/homecontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jinouk/lostark/service/armoriesAPIService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jinouk/lostark/service/charactersAPIService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jinouk/lostark/webClient/LlostArkWebClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jinouk/lostark/domain/controller/homecontroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jinouk/lostark/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jinouk/lostark/LostArkApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jinouk/lostark/domain/controller/homecontroller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jinouk/lostark/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/index-BJ89mEcH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jinouk/lostark/LostArkApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,28 +108,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.LostArkApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/me/Desktop/노트북 코딩파일/로아전정/LostArk",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.LostArkApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/me/Desktop/노트북 코딩파일/로아전정/LostArk/src/main/java/com/jinouk/lostark&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\me\Desktop\노트북 코딩파일\LostArk\src\main\resources\static" />
@@ -120,6 +138,10 @@
       <recent name="C:\Users\me\Desktop\노트북 코딩파일\로아전정\LostArk\src\main\resources\static" />
       <recent name="C:\Users\me\Desktop\노트북 코딩파일\로아전정\LostArk\src\main" />
       <recent name="C:\Users\me\Desktop\노트북 코딩파일\LostArk\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jinouk.lostark" />
+      <recent name="com.jinouk.lostark.src" />
     </key>
   </component>
   <component name="RunManager">
@@ -166,6 +188,10 @@
       <workItem from="1767330231069" duration="647000" />
       <workItem from="1767333533441" duration="51000" />
       <workItem from="1767333997834" duration="115000" />
+      <workItem from="1767334666236" duration="191000" />
+      <workItem from="1767577157526" duration="80000" />
+      <workItem from="1767577386171" duration="2907000" />
+      <workItem from="1767584544878" duration="2461000" />
     </task>
     <task id="LOCAL-00001" summary="set">
       <option name="closed" value="true" />
@@ -215,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767334048881</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="edit react design 01-01">
+      <option name="closed" value="true" />
+      <created>1767334764841</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767334764841</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +266,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="test" />
                       </list>
                     </value>
                   </entry>
@@ -255,6 +289,7 @@
     <MESSAGE value="remove Spring Security" />
     <MESSAGE value="edit react design" />
     <MESSAGE value="edit react design 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit react design 01" />
+    <MESSAGE value="edit react design 01-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit react design 01-01" />
   </component>
 </project>
