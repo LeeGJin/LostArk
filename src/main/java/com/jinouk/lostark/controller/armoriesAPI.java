@@ -20,4 +20,32 @@ public class armoriesAPI {
     public Mono<String> equipment() {
         return service.getArmoriesCharacterEquipment();
     }
+
+    @GetMapping("/avatars")
+    public Mono<String> avatars() { return service.getArmoriesCharacterAvatars();}
+
+    @GetMapping("/combat-skills")
+    public Mono<String> combat_skills() { return service.getArmoriesCharacterCombatSkills();}
+
+    @GetMapping("/engravings")
+    public Mono<String> engravings() { return service.getArmoriesCharacterEngravings();}
+
+    @GetMapping("/cards")
+    public Mono<String> cards() { return service.getArmoriesCharacterCards();}
+
+    @GetMapping("/gems")
+    public Mono<String> gems() { return service.getArmoriesCharacterGems();}
+
+    @GetMapping("/colosseums")
+    public Mono<String> colosseums() { return service.getArmoriesCharacterColosseums();}
+
+    @GetMapping("/collectibles")
+    public Mono<String> collectibles() { return service.getArmoriesCharacterCollectibles();}
+
+    @GetMapping("/arkpassive")
+    public Mono<String> arkpassive() { return service.getArmoriesCharacterArkpassive();}
+
+    @GetMapping("/arkgrid")
+    public Mono<String> arkgrid() { return service.getArmoriesCharacterArkgrid();}
+
 }
