@@ -2,16 +2,15 @@ package com.jinouk.lostark.dto;
 
 import lombok.Getter;
 import lombok.Setter;
+import java.util.List;
 @Getter
 @Setter
 public class raidDto {
     private String title;
-    private int gold;
-    private boolean type;
+    private List<difficultyDto> difficulty;
 
-    public raidDto(String title, int gold, boolean type) {
+    public raidDto(String title, List<difficultyDto>difficulty) {
         this.title = title;
-        this.gold = gold;
-        this.type = type;
+        this.difficulty = difficulty;
     }
 }
