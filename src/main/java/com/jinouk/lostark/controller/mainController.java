@@ -1,6 +1,6 @@
 package com.jinouk.lostark.controller;
 
-import com.jinouk.lostark.dto.raidDto;
+import com.jinouk.lostark.tlqkf_dto.raidDto;
 import com.jinouk.lostark.service.raidService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

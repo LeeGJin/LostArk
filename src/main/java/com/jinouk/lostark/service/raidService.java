@@ -1,6 +1,6 @@
 package com.jinouk.lostark.service;
 
-import com.jinouk.lostark.dto.raidDto;
+import com.jinouk.lostark.tlqkf_dto.raidDto;
 import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
