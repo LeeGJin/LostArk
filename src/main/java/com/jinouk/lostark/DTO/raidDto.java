@@ -1,4 +1,4 @@
-package com.jinouk.lostark.DTO;
+package com.jinouk.lostark.dto;
 
 import lombok.Getter;
 import lombok.Setter;
