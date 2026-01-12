@@ -12,4 +12,21 @@ public class homecontroller {
     public String home() {
         return "index.html";
     }
+
+    @GetMapping("/profilePage")
+    public String profile(){
+        return "forward:/index.html";
+    }
+    @GetMapping("/raidPage")
+    public String raid(){
+        return "forward:/index.html";
+    }
+    @GetMapping("/simulatorPage")
+    public String simulator(){
+        return "forward:/index.html";
+    }
+    @GetMapping("/auctionPage")
+    public String auction(){
+        return "forward:/index.html";
+    }
 }
