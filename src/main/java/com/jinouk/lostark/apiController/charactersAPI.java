@@ -15,5 +15,5 @@ public class charactersAPI {
 
 
     @GetMapping("/siblings")
-    public Mono<String> siblings(@RequestParam String query) { return service.getCharacterSiblings(query); }
+    public Mono<String> siblings(@RequestParam String name) { return service.getCharacterSiblings(name); }
 }
