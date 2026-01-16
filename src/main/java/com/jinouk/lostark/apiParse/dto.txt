@@ -1,0 +1,66 @@
+치명	Critical (치명타 적중률)
+특화	Specialization	직업별 고유 능력 강화
+신속	Swiftness	공격/이동 속도 및 재사용 대기시간 감소
+제압	Domination	피격 이상/상태 이상 대상에게 주는 피해 증가
+인내	Endurance	방어력, 보호막, 회복량 증가
+숙련	Expertise
+
+Stats[0].Value 치명
+Stats[1].Value 특화
+Stats[2].Value 신속
+Stats[3].Value 제압
+Stats[4].Value 인내
+Stats[5].Value 숙련
+
+"name": "+19 운명의 업화 검",
+
++19 <- 이게 재련 단계
+ "quality": 94, <- 이게 품질
+
+"refine": {
+    "type": "상급 재련",
+    "level": 30,
+<- 이게 상재 단계
+
+ "stats": {
+    "attackPower": 149940,
+    "additionalDamagePercent": 27.68
+  },
+<- 이게 무공과 추피
+
+name / grade / quality / attackPower / additionalDamagePercent / esther / name(esther의 이름 , 예컨대 실리안) /  "statIncrease": {
+          "strength": 257503,
+          "dexterity": 257503,
+          "intelligence": 257503
+        }, /  "name": "여명의 빛",
+        "durationSeconds": 20,
+        "partyRangeMeter": 16,
+        "partyAttackPowerIncrease": 7250,
+
+
+    "name": "9",
+    "grade": "에스더",
+    "quality": 100,
+    "stats": {
+      "attackPower": 242574,
+      "additionalDamagePercent": 30.0
+    },
+      "esther": {
+        "name": "실리안",
+        "effects": [
+          {"name": "기사의 긍지",
+            "durationSeconds": 10,
+            "statIncrease": {
+              "strength": 257503,
+              "dexterity": 257503,
+              "intelligence": 257503
+            },
+          },
+          {
+            "name": "여명의 빛",
+            "durationSeconds": 20,
+            "partyRangeMeter": 16,
+            "partyAttackPowerIncrease": 7250,
+          }
+        ]
+      },

@@ -6,7 +6,8 @@ import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
-
+import tools.jackson.databind.JsonNode;
+import tools.jackson.databind.ObjectMapper;
 import java.util.List;
 
 @Service
@@ -14,8 +15,7 @@ import java.util.List;
 public class armoriesAPIService {
 
     private final WebClient loawebclient;
-
-    //치명 , 특화 , 신속 , 제압 , 인내 , 숙련등의 수치및 증감량 조회
+    //치명 , 특화 , 신속 , 제압 , 인내 , 숙련 등의 수치및 증감량 조회
     public Mono<String> getArmoriesCharacterProfile(String name) {
         return loawebclient
                 .get()

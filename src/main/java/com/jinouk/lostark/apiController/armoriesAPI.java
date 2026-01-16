@@ -1,5 +1,7 @@
 package com.jinouk.lostark.apiController;
 
+import com.jinouk.lostark.apiParse.apiParseService.characterProfileParseService;
+import com.jinouk.lostark.apiParse.apiParseService.equipmentWeaponParseService;
 import com.jinouk.lostark.service.armoriesAPIService;
 import com.jinouk.lostark.simulator.dto.skillsResponse;
 import lombok.RequiredArgsConstructor;
@@ -14,15 +16,19 @@ import java.util.List;
 @RequiredArgsConstructor
 public class armoriesAPI {
     private final armoriesAPIService service;
+    private final characterProfileParseService parseProfile;
+    private final equipmentWeaponParseService parseWeapon;
 
     @GetMapping("/stat")
     public Mono<String> stat(@RequestParam String name) {
-        return service.getArmoriesCharacterProfile(name);
+        //return service.getArmoriesCharacterProfile(name);
+        return parseProfile.getAndProcessProfile(name);
     }
 
     @GetMapping("/equipment")
     public Mono<?> equipment(@RequestParam String name) {
-        return service.getArmoriesCharacterEquipment(name);
+        //return service.getArmoriesCharacterEquipment(name);
+        return parseWeapon.getAndProcessWeapon(name);
     }
 
     @GetMapping("/avatars")
