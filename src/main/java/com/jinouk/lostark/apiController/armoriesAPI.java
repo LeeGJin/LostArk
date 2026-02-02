@@ -19,6 +19,11 @@ public class armoriesAPI {
     private final characterProfileParseService parseProfile;
     private final equipmentWeaponParseService parseWeapon;
 
+    @GetMapping("/character")
+    public Mono<String> character(@RequestParam String name) {
+        return service.getArmoriesCharacter(name);
+    }
+
     @GetMapping("/stat")
     public Mono<String> stat(@RequestParam String name) {
         //return service.getArmoriesCharacterProfile(name);

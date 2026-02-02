@@ -14,6 +14,15 @@ import java.util.List;
 @RequiredArgsConstructor
 public class armoriesAPIService {
 
+    //캐릭터 전체 정보 조희
+    public Mono<String> getArmoriesCharacter(String name) {
+        return loawebclient
+                .get()
+                .uri("/armories/characters/{name}", name)
+                .retrieve()
+                .bodyToMono(String.class);
+    }
+
     private final WebClient loawebclient;
     //치명 , 특화 , 신속 , 제압 , 인내 , 숙련 등의 수치및 증감량 조회
     public Mono<String> getArmoriesCharacterProfile(String name) {
