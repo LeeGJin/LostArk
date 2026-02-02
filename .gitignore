@@ -35,3 +35,8 @@ build/
 ### Application.properties
 src/main/resources/application.properties
 /src/test/resources/
+
+src/test/resources/application.properties
+
+application.properties
+
