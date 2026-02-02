@@ -27,6 +27,7 @@ public class skillPostProcess {
         private String name;
         private String icon;
         private String tooltip;
+        private List<String> synergies; // ✅ 시너지 정보를 담기 위해 추가
     }
 
     @Getter

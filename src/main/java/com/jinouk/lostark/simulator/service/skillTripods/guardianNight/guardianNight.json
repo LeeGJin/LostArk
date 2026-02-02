@@ -1,0 +1,1066 @@
+[
+  {
+    "Name": "클리브",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_5.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "피해 증폭",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_97.png",
+        "Tooltip": "공격 적중 시 대상이 자신 및 파티원에게 받는 피해가 9.0초 간 6.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "돌진",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_39.png",
+        "Tooltip": "전방으로 4.0m 돌진하며 공격한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "시전 속도가 10.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "증강",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_36.png",
+        "Tooltip": "적에게 주는 피해가 40.0% 증가하고, 공격 적중 시 엠버레스의 기운을 1개 추가 회복한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png",
+        "Tooltip": "하급 및 일반 몬스터에게 주는 피해가 120.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "화염 폭풍",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_13.png",
+        "Tooltip": "[화] 속성으로 변경되며 적에게 주는 피해가 60.0% 증가하고, 공격 적중 시 6.0초 동안 화상 상태로 만들어 매 초마다 31,434의 피해를 입힌다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "휩쓸기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_7.png",
+        "Tooltip": "공격 범위가 30.0% 증가하고, 적에게 주는 피해가 70.0% 증가한다."
+      }
+    ],
+    "Tooltip": "티어 1 트라이포드 스킬 레벨 4에 개방, 티어 2 트라이포드 스킬 레벨 7에 개방, 티어 3 트라이포드 스킬 레벨 10에 개방"
+  },
+  {
+    "Name": "와일드 어퍼",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_6.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "신속한 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png",
+        "Tooltip": "카운터 성공 시 재사용 대기시간이 3.0초 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "우직함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_23.png",
+        "Tooltip": "스킬 시전 중 경직에 면역이 된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "시전 속도가 10.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "돌진",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png",
+        "Tooltip": "전방으로 4.0m 돌진하며 공격한다. 적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "섬광",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_40.png",
+        "Tooltip": "일반 조작으로 변경되며, 빠르게 올려쳐 총 33.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "강타",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png",
+        "Tooltip": "올려치는 공격 시 보다 강하게 쳐올려 더 넓은 범위를 공격하며 90.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_0.png",
+        "Tooltip": "적에게 주는 피해가 80.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "사전 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_83.png",
+        "Tooltip": "스택이 가능하게 변경되며 최대 2회까지 충전된다."
+      }
+    ],
+    "Tooltip": "우직함: 스킬 시전 중 경직에 면역이 된다., 섬광: 일반 조작으로 변경되며, 빠르게 올려쳐 총 33.0% 증가된 피해를 준다., 사전 준비: 스택이 가능하게 변경되며 최대 2회까지 충전된다."
+  },
+  {
+    "Name": "쓰러스트",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_7.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "피해 증폭",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_97.png",
+        "Tooltip": "공격 적중 시 대상이 자신 및 파티원에게 받는 피해가 10.0초 간 6.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "부위 파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_22.png",
+        "Tooltip": "부위 파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "단단한 비늘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_194.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 20.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "연속돌진",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_38.png",
+        "Tooltip": "체인 조작으로 변경된다. 이동 거리가 2.0m 짧아지고 엠버레스의 기운 회복량이 1개 감소하지만, 5.0초 내에 한 번 더 사용할 수 있다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "질풍",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_11.png",
+        "Tooltip": "공격 준비 시간이 짧아지고 돌진 속도가 비약적으로 증가하며, 적에게 주는 피해가 40.0% 증가한다. 스킬 사용 즉시 엠버레스의 기운을 회복한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "먹이 사냥",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_12.png",
+        "Tooltip": "양손으로 할버드를 잡고 크게 돌려베는 형태로 변경되며, 모험가 및 가디언 몬스터까지 충돌이 무시된다. 공격 준비 시간이 증가되지만, 돌진 거리가 2.0m 증가하며 적에게 주는 피해가 70.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "파멸의 오브",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_199.png",
+        "Tooltip": "엠버레스 오브 게이지 회복량이 50% 감소하지만, 무기를 강화하여 적에게 주는 피해가 110.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_33.png",
+        "Tooltip": "피격 이상 면역인 적에게 주는 피해가 90.0% 증가한다."
+      }
+    ],
+    "Tooltip": "피해 증폭: 공격 적중 시 대상이 자신 및 파티원에게 받는 피해가 10.0초 간 6.0% 증가한다., 질풍: 공격 준비 시간이 짧아지고 돌진 속도가 비약적으로 증가하며, 적에게 주는 피해가 40.0% 증가한다. 스킬 사용 즉시 엠버레스의 기운을 회복한다., 티어 3 트라이포드 스킬 레벨 10에 개방"
+  },
+  {
+    "Name": "길로틴 스핀",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_8.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_61.png",
+        "Tooltip": "하급 및 일반 몬스터에게 주는 피해가 65.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_0.png",
+        "Tooltip": "적에게 주는 피해가 35.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [상]으로 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "천부적인 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_27.png",
+        "Tooltip": "회전 공격을 하는 동안 방향전환이 가능해지며, 모험가 및 일반 몬스터와 충돌이 무시된다. 적에게 주는 피해가 80.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "강인함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_23.png",
+        "Tooltip": "스킬 시전 중 피격이상에 면역이 되고, 적에게 주는 피해가 65.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "변화무쌍",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png",
+        "Tooltip": "3회 회전 베기 형태로 변경되며, 적에게 주는 피해가 총 55.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "무자비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_7.png",
+        "Tooltip": "공격 범위가 30.0% 증가하고, 마지막 공격을 제외한 공격이 더 이상 적을 밀어내지 않고 오히려 끌어 당긴다. 적중한 적 1명 당 재사용 대기시간이 1.0초씩 감소하여 최대 12.0초까지 감소된다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "파멸의 기운",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_199.png",
+        "Tooltip": "엠버레스의 기운 회복량이 1개 감소하지만, 무기를 강화하여 적에게 주는 피해가 120.0% 증가한다."
+      }
+    ],
+    "Tooltip": "티어 1 트라이포드 스킬 레벨 4에 개방, 티어 2 트라이포드 스킬 레벨 7에 개방, 티어 3 트라이포드 스킬 레벨 10에 개방"
+  },
+  {
+    "Name": "임페일 쇼크",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_11.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "기운 갈취",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_36.png",
+        "Tooltip": "공격 적중 시 엠버레스의 기운을 3개 추가 회복한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "화력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "엠버레스 오브 게이지 회복량이 30.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "부위 파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_22.png",
+        "Tooltip": "부위 파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "응축된 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_201.png",
+        "Tooltip": "차지 조작으로 변경되며 힘을 모아 즉시 강력한 후폭풍을 발생시켜 기본 피해량의 100.0%에 해당하는 피해를 입힌다. 2단계 차지 시 피해량이 35.0% 증가하고, 오버 차지 시 피해량이 70.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "즉결심판",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png",
+        "Tooltip": "재사용 대기시간이 6.0초 감소하고, 공격 즉시 강력한 후폭풍을 발생시켜 기본 피해량의 140.0%에 해당하는 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 90.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "파멸의 오브",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_199.png",
+        "Tooltip": "엠버레스 오브 게이지 회복량이 50% 감소하지만, 무기를 강화하여 적에게 주는 피해가 120.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "죽음의 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_0.png",
+        "Tooltip": "후폭풍을 한 점으로 집중시켜 멀리 뻗어나가도록 강하게 방출한다. 후폭풍으로 주는 피해가 90.0% 증가한다."
+      }
+    ],
+    "Tooltip": "화력 조절: 엠버레스 오브 게이지 회복량이 30.0% 증가한다., 즉결심판: 재사용 대기시간이 6.0초 감소하고, 공격 즉시 강력한 후폭풍을 발생시켜 기본 피해량의 140.0%에 해당하는 피해를 준다., 죽음의 일격: 후폭풍을 한 점으로 집중시켜 멀리 뻗어나가도록 강하게 방출한다. 후폭풍으로 주는 피해가 90.0% 증가한다."
+  },
+  {
+    "Name": "미티어 크래시",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_9.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "단단한 비늘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_194.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 20.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "화력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "엠버레스 오브 게이지 회복량이 30.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "기운 갈취",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_36.png",
+        "Tooltip": "공격 적중 시 엠버레스의 기운을 2개 추가 회복한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "대지 붕괴",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_15.png",
+        "Tooltip": "[토] 속성으로 변경되며, 내려 찍은 지면에 5.0초간 지속적인 지진을 발생시켜 최대 기본 공격의 30.0%에 해당하는 피해를 주고 이동 속도를 30.0% 감소시킨다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "화염 지옥",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_13.png",
+        "Tooltip": "[화] 속성으로 변경되며, 착지 중심으로부터 화염 폭풍을 일으켜 기본 공격의 40.0%에 해당하는 피해를 주고 6.0초 동안 화상 상태로 만들어 매 초마다 37,609의 피해를 입힌다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "파멸의 낙뢰",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_17.png",
+        "Tooltip": "[뇌] 속성으로 변경된다. 착지 중심으로부터 번개의 기운이 퍼져나가며 기본 공격의 45.0%에 해당하는 피해를 주고 공격에 적중된 적을 4.0초간 감전 상태로 만든다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "대재앙",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_7.png",
+        "Tooltip": "공격 범위가 50.0% 증가하고, 적에게 주는 피해가 65.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "통찰력",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_10.png",
+        "Tooltip": "스킬의 사용 거리가 5.0m 증가하고, 적에게 주는 피해가 55.0% 증가한다."
+      }
+    ],
+    "Tooltip": "티어 1 트라이포드 스킬 레벨 4에 개방, 티어 2 트라이포드 스킬 레벨 7에 개방, 티어 3 트라이포드 스킬 레벨 10에 개방"
+  },
+  {
+    "Name": "퀘이크 스매시",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_10.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "단단한 비늘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_194.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 20.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "부위 파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_22.png",
+        "Tooltip": "부위 파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "시전 속도가 10.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "강철의 울림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png",
+        "Tooltip": "일반 조작으로 변경되며, 최대 범위로 공격한다. 공격 적중 시 엠버레스의 기운을 2개 추가 회복하며, 적에게 주는 피해가 80.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "말살",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_42.png",
+        "Tooltip": "차지 조작으로 변경되며, 2단계 차지 시 기본 피해량의 90.0%만큼 증가된 피해를 주고, 오버 차지 시 기본 피해량의 185.0%만큼 증가된 피해를 주지만, 1단계 차지 시 기본 피해량의 50.0%만큼 감소된 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격 이상 면역인 적에게 주는 피해가 90.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "파멸의 오브",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_199.png",
+        "Tooltip": "엠버레스 오브 게이지 회복량이 50% 감소하지만, 무기를 강화하여 적에게 주는 피해가 120.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "가디언의 비늘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_23.png",
+        "Tooltip": "스킬 시전 중 피격 이상에 면역이 되며, 적에게 주는 피해가 95.0% 증가한다."
+      }
+    ],
+    "Tooltip": "재빠른 손놀림: 시전 속도가 10.0% 증가한다., 강철의 울림: 일반 조작으로 변경되며, 최대 범위로 공격한다. 공격 적중 시 엠버레스의 기운을 2개 추가 회복하며, 적에게 주는 피해가 80.0% 증가한다., 가디언의 비늘: 스킬 시전 중 피격 이상에 면역이 되며, 적에게 주는 피해가 95.0% 증가한다."
+  },
+  {
+    "Name": "프렌지 스윕",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_12.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "단단한 비늘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_194.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 20.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [상]으로 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "시전 속도가 15.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "가디언의 송곳니",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png",
+        "Tooltip": "연속으로 베는 속도가 빨라지며 공격 횟수가 2회 증가하여 기본 피해량의 175.5%에 해당하는 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "맹습",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_40.png",
+        "Tooltip": "땅을 긁으며 올려친 후 그대로 돌아 내려 찍어 기본 피해량의 144.0%에 해당하는 피해를 입힌다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "파멸의 오브",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_199.png",
+        "Tooltip": "엠버레스 오브 게이지 회복량이 50% 감소하지만, 무기를 강화하여 적에게 주는 피해가 80.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "어둠의 발톱",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_0.png",
+        "Tooltip": "마지막 공격 직후 어둠의 발톱을 생성하여 전방의 적을 꿰뚫으며 기본 피해량의 84.0%에 해당하는 추가 피해를 주며 적을 날려버린다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "화염 폭발",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_13.png",
+        "Tooltip": "마지막 공격이 대상을 내려찍어 넘어뜨리고, 그 자리에 화염 폭발을 발생시켜 폭발에 휘말린 적을 띄워올린다. 화염 폭발은 기본 피해량의 80.0%에 해당하는 추가 피해를 주고, 6.0초간 화상 상태로 만들어 매 초마다 225,465의 피해를 준다."
+      }
+    ],
+    "Tooltip": "티어 1 트라이포드 스킬 레벨 4에 개방, 티어 2 트라이포드 스킬 레벨 7에 개방, 티어 3 트라이포드 스킬 레벨 10에 개방"
+  },
+  {
+    "Name": "리벤지 블로우",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_13.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "기운 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_50.png",
+        "Tooltip": "소모한 엠버레스의 기운 당 추가로 5.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "전방위 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_128.png",
+        "Tooltip": "더 이상 헤드 어택 공격이 적용되지 않지만 적에게 주는 피해가 15.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "철벽",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "반격 준비 동작이 빨라지고 홀딩 유지 시간이 1.0초 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "강화 비늘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_75.png",
+        "Tooltip": "방어 자세에서 획득하는 보호막 수치가 추가로 20.0% 증가하고 피해량이 45.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "반격의 시간",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_83.png",
+        "Tooltip": "스택이 가능하게 변경되며 최대 2회까지 충전되고, 방어에 성공하였을 때 반격 적중 시 충전중인 스택의 충전 시간이 최대 6.0초 감소된다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "간섭 거부",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_24.png",
+        "Tooltip": "스킬 시전 중 상태이상에 면역이 된다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "응징",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png",
+        "Tooltip": "방어에 성공하였을 때 더욱 강하게 반격하여 80.0% 증가된 피해를 준다."
+      }
+    ],
+    "Tooltip": "엠버레스의 힘이 담긴 갑주를 팔에 두른 후 공격에 대비하며 자신의 최대 생명력의 40.0% 만큼 적의 공격을 막아낼 수 있다. 이때 적의 공격을 성공적으로 방어하거나, 홀딩 입력 종료 시 즉시 갑주를 강하게 휘둘러 2,775,747의 피해를 주고 날려버린다.무력화 : 중공격 타입 : 헤드 어택슈퍼아머 : 피격이상 면역"
+  },
+  {
+    "Name": "리벤지 스피어",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_14.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "단단한 비늘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_194.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 20.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "기운 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_50.png",
+        "Tooltip": "소모한 엠버레스의 기운 당 추가로 10.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "간결한 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "홀딩 조작 시간이 절반으로 감소하지만, 홀딩 조작을 끝까지 유지하지 않아도 마지막 타격이 발생한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png",
+        "Tooltip": "적에게 주는 피해가 55.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "넓은 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png",
+        "Tooltip": "공격 거리가 40.0% 증가하고 폭이 20.0% 증가하며, 적에게 주는 피해가 45.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "기동력 강화 ",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_11.png",
+        "Tooltip": "최초 지정한 마우스 방향으로 공격하는 형태로 변경되며 공격 중 이동 속도가 40.0% 증가하고 적에게 주는 피해가 70.0% 증가한다. "
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "종언의 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_58.png",
+        "Tooltip": "공격이 적중할 때마다 마지막 공격이 적에게 주는 피해가 40.0%씩 증가하여 최대 280.0%까지 증가한다."
+      }
+    ],
+    "Tooltip": "엠버레스의 힘이 담긴 갑주로 전방을 보호하여 자신의 최대 생명력의 20.0% 만큼 적의 공격을 막아낼 수 있다. 최초 지정한 마우스 지점을 중심으로 자유롭게 이동하면서 할버드를 무차별하게 찌르고 총 1,212,834의 피해를 준다. 홀딩을 끝까지 유지할 경우 갑주에 모인 에너지를 방출하여 전방에 519,599의 피해를 입히고 날려버린다.무력화 : 중"
+  },
+  {
+    "Name": "스피닝 플레임",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_15.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "피해 증폭",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_97.png",
+        "Tooltip": "공격 적중 시 대상이 자신 및 파티원에게 받는 피해가 9.0초 간 6.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "화력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "엠버레스 오브 게이지 회복량이 30.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "기운 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_50.png",
+        "Tooltip": "소모한 엠버레스의 기운 당 추가로 5.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "추적하는 갑주",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_84.png",
+        "Tooltip": "던져진 갑주가 적을 추적하며 피해를 입혀 적에게 주는 피해가 최대 35.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "화염 폭풍",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_53.png",
+        "Tooltip": "갑주가 적에게 적중되면 그 자리에서 화염 폭풍이 생겨나 적들을 당겨오며, 적에게 총 50.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "지속력 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_51.png",
+        "Tooltip": "던져진 갑주가 유지되는 시간이 50.0% 증가하여 적에게 주는 피해가 최대 80.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 90.0% 증가한다."
+      }
+    ],
+    "Tooltip": "화력 조절: 엠버레스 오브 게이지 회복량이 30.0% 증가한다., 화염 폭풍: 갑주가 적에게 적중되면 그 자리에서 화염 폭풍이 생겨나 적들을 당겨오며, 적에게 총 50.0% 증가된 피해를 준다., 약점 포착: 피격이상 면역인 적에게 주는 피해가 90.0% 증가한다."
+  },
+  {
+    "Name": "아바돈 플레임",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_16.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "피해 증폭",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_97.png",
+        "Tooltip": "공격 적중 시 대상이 자신 및 파티원에게 받는 피해가 16.0초 간 6.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "과소비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "엠버레스의 기운을 2개 추가 소모한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "기운 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_50.png",
+        "Tooltip": "소모한 엠버레스의 기운 당 추가로 10.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "사전 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png",
+        "Tooltip": "화염 결정 소환 시간이 빨라지고, 적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "원거리 사격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_52.png",
+        "Tooltip": "시전 거리가 4.0m 증가하고, 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "무자비한 폭격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_54.png",
+        "Tooltip": "발사하는 화염 결정 조각의 개수가 증가하여, 적에게 주는 피해가 최대 92.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "업화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_53.png",
+        "Tooltip": "화염 결정 조각을 발사한 후 거대한 화염 결정을 추가로 발사하고 폭파시켜 80.0% 추가 피해를 주며 날려버린다."
+      }
+    ],
+    "Tooltip": "과소비: 엠버레스의 기운을 2개 추가 소모한다., 원거리 사격: 시전 거리가 4.0m 증가하고, 적에게 주는 피해가 60.0% 증가한다., 업화: 화염 결정 조각을 발사한 후 거대한 화염 결정을 추가로 발사하고 폭파시켜 80.0% 추가 피해를 주며 날려버린다."
+  },
+  {
+    "Name": "윙 스팅어",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_17.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "시전 속도가 10.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "화력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "엠버레스 오브 게이지 회복량이 30.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "기운 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_50.png",
+        "Tooltip": "소모한 엠버레스의 기운 당 추가로 5.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "엠버레스의 날개",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_13.png",
+        "Tooltip": "[화] 속성으로 변경되며, 적에게 주는 피해가 65.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "날개 응축",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png",
+        "Tooltip": "차지 조작으로 변경되며, 오버 차지 시 80.0% 증가된 피해를 주지만 오버 차지가 아닐 경우 피해가 50.0% 감소된다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "넓은 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_7.png",
+        "Tooltip": "공격 거리가 40.0% 증가하며, 적에게 주는 피해가 70.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "불굴의 강타",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_23.png",
+        "Tooltip": "스킬 시전 중 피격 이상에 면역이 되며, 적에게 주는 피해가 70.0% 증가한다."
+      }
+    ],
+    "Tooltip": "화력 조절: 엠버레스 오브 게이지 회복량이 30.0% 증가한다., 날개 응축: 차지 조작으로 변경되며, 오버 차지 시 80.0% 증가된 피해를 주지만 오버 차지가 아닐 경우 피해가 50.0% 감소된다., 불굴의 강타: 스킬 시전 중 피격 이상에 면역이 되며, 적에게 주는 피해가 70.0% 증가한다."
+  },
+  {
+    "Name": "윙 래시",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_18.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "시전 속도가 10.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "과소비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "엠버레스의 기운을 2개 추가 소모한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "기운 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_50.png",
+        "Tooltip": "소모한 엠버레스의 기운 당 추가로 10.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png",
+        "Tooltip": "적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "천공의 날개",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_29.png",
+        "Tooltip": "공격에 적중 시 적을 공중에 띄운다. 공중에 뜬 적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "공간절삭",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_202.png",
+        "Tooltip": "공격 시 공간을 가르는 파동을 날려 기본 피해의 90.0%에 해당하는 추가 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "파멸의 날개",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_38.png",
+        "Tooltip": "2회 공격하는 콤보 조작으로 변경된다. 날개를 휘두른 후 추가로 전방을 향해 날개를 활용하여 할퀴는 공격을 하며, 적에게 주는 피해가 총 100.0% 증가한다."
+      }
+    ],
+    "Tooltip": "과소비: 엠버레스의 기운을 2개 추가 소모한다., 강화된 일격: 적에게 주는 피해가 60.0% 증가한다., 공간절삭: 공격 시 공간을 가르는 파동을 날려 기본 피해의 90.0%에 해당하는 추가 피해를 준다."
+  },
+  {
+    "Name": "블레이즈 스윕",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_19.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "최초 돌진 시전 속도가 20.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "전투의 달인",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_51.png",
+        "Tooltip": "적중한 적 1명 당 재사용 대기시간이 0.5초씩 감소하여 최대 6.0초까지 감소된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "전방위 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_128.png",
+        "Tooltip": "더 이상 헤드 어택 공격이 적용되지 않지만 적에게 주는 피해가 15.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "꿰뚫는 진격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_12.png",
+        "Tooltip": "더 이상 돌진 공격에 적중 시 즉시 휘두르기 공격을 하지 않지만, 모험가 및 일반 몬스터와 충돌이 무시되며 적에게 주는 피해가 96.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 70.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "몰아치는 발톱",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_39.png",
+        "Tooltip": "마지막 공격이 강화되어 공간을 갈라버릴 정도로 강하게 베어낸다. 마지막 공격의 피해량이 180.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "정제된 분노",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_43.png",
+        "Tooltip": "재사용 대기시간이 6.0초 감소하고, 적에게 주는 피해가 60.0% 증가한다. "
+      }
+    ],
+    "Tooltip": "전방위 타격: 더 이상 헤드 어택 공격이 적용되지 않지만 적에게 주는 피해가 15.0% 증가한다., 꿰뚫는 진격: 더 이상 돌진 공격에 적중 시 즉시 휘두르기 공격을 하지 않지만, 모험가 및 일반 몬스터와 충돌이 무시되며 적에게 주는 피해가 96.0% 증가한다., 몰아치는 발톱: 마지막 공격이 강화되어 공간을 갈라버릴 정도로 강하게 베어낸다. 마지막 공격의 피해량이 180.0% 증가한다."
+  },
+  {
+    "Name": "블레이즈 플래시",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_20.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "최초 돌진 시전 속도가 20.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "전투의 달인",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_51.png",
+        "Tooltip": "적중한 적 1명 당 재사용 대기시간이 0.5초씩 감소하여 최대 6.0초까지 감소된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "부위 파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_22.png",
+        "Tooltip": "마지막 공격의 부위 파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png",
+        "Tooltip": "적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "깨어난 본능",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_197.png",
+        "Tooltip": "적에게 주는 피해가 40.0% 증가하고, 소모한 엠버레스의 기운 당 추가로 10.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "엠버레스의 춤사위",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_203.png",
+        "Tooltip": "마지막 공격이 강화되어 360도 회전하여 마지막 공격이 적에게 주는 피해가 150.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "맹렬한 추격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_10.png",
+        "Tooltip": "첫 번째 공격을 더 이상 하지 않지만, 처음 이동 거리가 5.0m 증가하고, 마지막 공격이 적에게 주는 피해가 80.0% 증가한다."
+      }
+    ],
+    "Tooltip": "재빠른 손놀림: 최초 돌진 시전 속도가 20.0% 증가한다., 강화된 일격: 적에게 주는 피해가 60.0% 증가한다., 엠버레스의 춤사위: 마지막 공격이 강화되어 360도 회전하여 마지막 공격이 적에게 주는 피해가 150.0% 증가한다."
+  },
+  {
+    "Name": "렌딩 피니셔",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_21.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "시전 속도가 15.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "단단한 비늘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_194.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 20.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "정면 승부",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_0.png",
+        "Tooltip": "공격이 헤드 어택으로 변경된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "응축된 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_201.png",
+        "Tooltip": "차지 조작으로 변경된다. 스킬 시전 중 피격 이상에 면역이 되며, 오버 차지 시 50.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 70.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "깨어난 본능",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_197.png",
+        "Tooltip": "적에게 주는 피해가 50.0% 증가하고, 소모한 엠버레스의 기운 당 추가로 10.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "공간절삭",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_202.png",
+        "Tooltip": "강대한 힘으로 공간을 찢어 100.0%의 추가 피해를 발생시킨다."
+      }
+    ],
+    "Tooltip": "재빠른 손놀림: 시전 속도가 15.0% 증가한다., 약점 포착: 피격이상 면역인 적에게 주는 피해가 70.0% 증가한다., 공간절삭: 강대한 힘으로 공간을 찢어 100.0%의 추가 피해를 발생시킨다."
+  },
+  {
+    "Name": "익스플로전 피니셔",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/ddk_skill/ddk_skill_01_22.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "시전 속도가 10.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "단단한 비늘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_194.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 20.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [최상]으로 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "응축된 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_201.png",
+        "Tooltip": "차지 조작으로 변경된다. 스킬 시전 중 피격 이상에 면역이 되며, 오버 차지 시 할버드로 내려치는 공격이 70.0% 증가된 피해를 준다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 70.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "붉은 심장",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_200.png",
+        "Tooltip": "붉은 엠버레스의 형상이 생성되며, 적에게 주는 피해가 75.0% 증가하고, 내려친 위치에 화염지대를 생성하여 3.0초 동안 총 1,070,387의 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "푸른 심장",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_198.png",
+        "Tooltip": "푸른 엠버레스의 형상이 생성되며, 적에게 주는 피해가 50.0% 증가하고, 엠버레스의 기운을 모두 소모한다."
+      }
+    ],
+    "Tooltip": "재빠른 손놀림: 시전 속도가 10.0% 증가한다., 약점 포착: 피격이상 면역인 적에게 주는 피해가 70.0% 증가한다., 푸른 심장: 푸른 엠버레스의 형상이 생성되며, 적에게 주는 피해가 50.0% 증가하고, 엠버레스의 기운을 모두 소모한다."
+  }
+]

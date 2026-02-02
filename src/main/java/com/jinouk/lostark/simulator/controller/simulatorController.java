@@ -4,6 +4,7 @@ package com.jinouk.lostark.simulator.controller;
 import com.jinouk.lostark.simulator.postProcess.skillPostProcess;
 import com.jinouk.lostark.simulator.service.simulatorService;
 import lombok.RequiredArgsConstructor;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -17,7 +18,7 @@ import java.util.List;
 @RestController
 @RequiredArgsConstructor
 @CrossOrigin(
-        origins = {"http://localhost:3000", "http://localhost:5173"},
+        origins = {"http://localhost:3000", "http://localhost:5173" , "http://localhost:8080"},
         allowCredentials = "true"
 )
 public class simulatorController {
@@ -28,6 +29,5 @@ public class simulatorController {
     public Mono<List<skillPostProcess>> doProcess(@RequestParam String characterName) {
         return service.doProcess(characterName);
     }
-
 
 }

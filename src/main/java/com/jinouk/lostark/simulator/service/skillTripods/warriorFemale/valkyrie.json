@@ -1,0 +1,1136 @@
+[
+  {
+    "Name": "간파 베기",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_3.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "강화 베기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_0.png",
+        "Tooltip": "적에게 주는 피해가 30.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_61.png",
+        "Tooltip": "시드 이하 몬스터에게 주는 피해가 145.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "약점 공략",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_158.png",
+        "Tooltip": "공격에 적중된 적은 8.0초 동안 자신 및 파티원의 치명타 공격에 받는 피해가 8.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "넓은 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png",
+        "Tooltip": "공격 범위가 20.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "우직함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_23.png",
+        "Tooltip": "스킬 시전 중 경직에 면역이 된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "탁월한 기동성",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_10.png",
+        "Tooltip": "전방으로 이동하는 거리가 2.0m 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "계시의 메아리",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_184.png",
+        "Tooltip": "공격이 끝나는 순간, 빛나는 검기가 같은 궤적을 따라 다시 한 번 적을 베어내며, 기본 피해량의 96.0%에 해당하는 추가 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "전투 감각",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_56.png",
+        "Tooltip": "재사용 대기시간이 8.0초 증가하지만, 타격할 때마다 1.0초씩 감소하며, 최대 12.0초까지 감소된다.넓은 타격 적용 시 공격 범위가 50.0% 증가한다."
+      }
+    ],
+    "Tooltip": "빠르게 회전하며 주변을 베며 293,302의 피해를 주고, 피격이상 중인 적 공격 시 공중에 띄운다.무력화 : 하카운터 : 가능"
+  },
+  {
+    "Name": "유성 찌르기",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_4.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [하] 로 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "멀리 찌르기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png",
+        "Tooltip": "공격 거리가 20.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "스킬 시전 속도가 18.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "강화 찌르기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png",
+        "Tooltip": "적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "견고한 움직임",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_25.png",
+        "Tooltip": "스킬 시전 중 받는 모든 피해가 62.5% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "마지막 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_6.png",
+        "Tooltip": "마지막 공격이 적에게 주는 피해가 115.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "계시의 외침",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_94.png",
+        "Tooltip": "준비 동작이 변경되며, 주변에 빛나는 검기들이 생성된다. 스킬 시전 중 피격이상에 면역이 되고 공격 준비 동작 중 피격 시 즉시 공격한다. 모든 검기가 생성되면 정면을 향해 일제히 공격하고, 적에게 주는 피해가 90.0% 증가한다.마지막 일격 적용 시 모든 공격의 피해량이 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "더블 스탭",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_83.png",
+        "Tooltip": "스택이 가능하게 변경된다. 최대 2회까지 충전된다."
+      }
+    ],
+    "Tooltip": "빠르게 10회 연속으로 찔러 총 372,356의 피해를 주고, 피격이상 중인 적 공격 시 공중에 띄운다.공격 타입 : 백 어택"
+  },
+  {
+    "Name": "전진 찌르기",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_5.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "탁월한 기동성",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png",
+        "Tooltip": "돌진의 이동 거리가 4.0m 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "부위파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_20.png",
+        "Tooltip": "부위파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "약점 공략",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_158.png",
+        "Tooltip": "공격에 적중된 적은 12.0초 동안 자신 및 파티원의 치명타 공격에 받는 피해가 8.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "견고한 움직임",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_25.png",
+        "Tooltip": "스킬 시전 중 받는 모든 피해가 62.5% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "둔화 효과",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_47.png",
+        "Tooltip": "공격 적중 시 3.0초간 적의 공격속도와 이동속도가 40.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "날렵한 움직임",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_11.png",
+        "Tooltip": "스킬 시전 시 8.0초간 자신의 이동속도가 30.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "연속 찌르기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_38.png",
+        "Tooltip": "콤보 조작으로 변경된다. 돌진의 이동 거리가 2.0m 감소하지만, 콤보 입력 시 마우스 방향으로 동일한 피해를 주는 추가 돌진 공격을 한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "일점 돌파",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_87.png",
+        "Tooltip": "빠르게 돌진하며 적에게 주는 피해가 95.0% 증가한다. "
+      }
+    ],
+    "Tooltip": "단숨에 6.0m를 돌진해 검으로 적을 꿰뚫으며 700,297의 피해를 주고, 피격이상 중인 적 공격 시 공중에 띄운다.공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "단죄의 쇄도",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_6.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [중상] 으로 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "스킬 시전 속도가 18.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "회검",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png",
+        "Tooltip": "타격할 때마다 재사용 대기시간이 0.5초씩 감소하며, 최대 4.5초까지 감소된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 65.1% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png",
+        "Tooltip": "시드 이하 몬스터에게 주는 피해가 194.6% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "신성한 처형",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png",
+        "Tooltip": "마지막 공격이 적에게 주는 피해가 120.0% 증가한다. 계시의 메아리 적용 시 생성되는 빛나는 검기에도 동일하게 피해 증가 효과가 적용된다. "
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "계시의 메아리",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_184.png",
+        "Tooltip": "공격이 끝나는 순간, 빛나는 검기가 같은 궤적을 따라 다시 한 번 적을 베어내며, 기본 피해량의 96.0%에 해당하는 추가 피해를 준다.회검 적용 시 재사용 대기시간이 최대 1.5초까지 추가로 감소된다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "폭풍 쇄도",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_185.png",
+        "Tooltip": "더 이상 백어택 효과는 적용되지 않지만, 스킬이 3회 회전하며 횡베기하는 형태로 변경되고, 공격마다 폭풍처럼 휘몰아치는 효과가 추가된다. 폭풍은 공격할 때마다 점차 확산되며 범위가 증가하고, 적에게 주는 총 피해가 100.0% 증가한다. 스킬 시전 중 모험가 및 일반 몬스터와 충돌이 무시된다."
+      }
+    ],
+    "Tooltip": "전방으로 빠르게 두 차례 베어 156,162, 156,162의 피해를 준 뒤, 검을 양손으로 움켜쥐고 강하게 내려쳐 312,324의 피해를 준다. 피격이상 중인 적 공격 시 공중에 띄운다.무력화 : 중공격 타입 : 백 어택"
+  },
+  {
+    "Name": "단죄의 성흔",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_7.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "순례자",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_186.png",
+        "Tooltip": "더 이상 백어택 공격이 적용되지 않지만 적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "날렵한 움직임",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_11.png",
+        "Tooltip": "스킬 시전 시 10.0초간 자신의 이동속도가 30.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "검기 방출",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png",
+        "Tooltip": "더 이상 올려치는 동작에는 피해가 발생하지 않으며, 대신 직선 형태의 검흔 3개가 생성된다.공격 폭은 50.0% 감소하지만, 첫 타격 기준으로 검흔의 판정 거리가 100.0% 증가한다. 공격 적중 시 적을 띄우며, 부위 파괴는 발생하지 않는다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "검기 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png",
+        "Tooltip": "검흔의 크기가 증가하며 공격 범위가 30.0% 증가한다. "
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "둔화 효과",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_47.png",
+        "Tooltip": "공격 적중 시 3.0초간 적의 공격속도와 이동속도가 40.0% 감소한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "계시의 성흔",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_85.png",
+        "Tooltip": "검흔이 폭발한 후, 그 자리에 생성된 빛나는 성흔이 다시 한번 터지며, 기본 피해량의 96.0%에 해당하는 추가 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "폭풍검",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_185.png",
+        "Tooltip": "공격 시 상승하는 폭풍이 발생하며 적에게 주는 피해가 90.0% 증가한다. 검기 방출 적용 시 폭풍이 전방으로 이동한다. "
+      }
+    ],
+    "Tooltip": "양손으로 검을 쥐고 빠르게 올려쳐 921,097의 피해를 주고 적을 공중에 띄운 뒤, 바닥에 새겨진 십자 검흔이 폭발하며 2,148,517의 피해를 주고 적을 날려버린다.부위 파괴 : 레벨 1무력화 : 중상공격 타입 : 백 어택"
+  },
+  {
+    "Name": "단죄의 속삭임",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_8.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "순례자",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_186.png",
+        "Tooltip": "더 이상 백 어택 공격이 적용되지 않지만 적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "강화 베기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_0.png",
+        "Tooltip": "적에게 주는 피해가 30.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "사전 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_92.png",
+        "Tooltip": "다음 스킬의 빠른 연계가 가능하다. "
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 65.1% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "궁극의 검격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_40.png",
+        "Tooltip": "더 이상 연속 공격을 하지 않고 기를 모으는 준비 동작을 한다. 이후 전방위 횡베기를 하며 공격 범위가 20.0% 증가하고 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "정밀한 검격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_88.png",
+        "Tooltip": "마지막 공격이 종베기로 변경되며, 공격 폭은 60% 감소하지만 공격 거리는 20% 증가한다. 마지막 공격이 적에게 주는 피해가 150.0% 증가한다.계시의 메아리 적용 시 생성되는 빛나는 검기에도 동일하게 피해 증가 효과가 적용된다. "
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "계시의 메아리",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_184.png",
+        "Tooltip": "공격이 끝나는 순간, 빛나는 검기가 같은 궤적을 따라 다시 한 번 적을 베어내며, 기본 피해량의 96.0%에 해당하는 추가 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "폭풍의 보호",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_75.png",
+        "Tooltip": "폭풍이 몸을 감싸며, 스킬 시전 중 피격이상에 면역이 되고 적에게 주는 피해가 100.0% 증가한다."
+      }
+    ],
+    "Tooltip": "전방을 향해 빠르게 검을 6회 베며, 최대 1,939,308의 피해를 입힌다. 이후 자세를 고쳐 한 바퀴 회전하며 강력한 횡베기를 가해, 1,294,020의 피해를 준다. 모든 공격은 피격이상 중인 적에게 적중 시, 적을 공중에 띄운다.부위 파괴 : 레벨 2무력화 : 최상공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "계시의 검",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_9.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [하] 로 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "부위파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_20.png",
+        "Tooltip": "부위파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "날렵한 움직임",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_11.png",
+        "Tooltip": "스킬 시전 시 6.0초간 자신의 이동속도가 30.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "정의감",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_188.png",
+        "Tooltip": "정의 스킬로 변경된다. 신앙 게이지를 획득할 수는 없지만, 재사용 대기시간이 6.0초 감소하고 적에게 주는 피해가 76.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "신성 분출",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_29.png",
+        "Tooltip": "공격 적중 시 적을 날려버리고, 적에게 주는 피해가 58.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "신앙심",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png",
+        "Tooltip": "공격 적중 시 신앙 게이지를 75.0% 추가 획득한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "빛의 속도",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_87.png",
+        "Tooltip": "전방으로 5.0m 돌진하며 2회 연속으로 베는 형태로 변경되고, 적에게 주는 총 피해가 95.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "더블 크로스",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_83.png",
+        "Tooltip": "스택이 가능하게 변경되며, 최대 2회까지 충전된다."
+      }
+    ],
+    "Tooltip": "왼손에 성검을 소환함과 동시에 양손의 검을 교차시켜 전방을 강하게 베어내 최대 219,598의 피해를 주며, 피격이상 중인 적 공격 시 공중에 띄운다.공격 타입 : 백 어택슈퍼아머 : 경직 면역카운터 : 가능"
+  },
+  {
+    "Name": "계시의 진격",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_10.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "스킬 시전 속도가 18.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "탁월한 기동성",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png",
+        "Tooltip": "돌진 거리가 4.0m 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "삼연살",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png",
+        "Tooltip": "일반 조작으로 변경되며, 돌진 후 기존 공격에서 1회가 추가되어 총 3회 연속 공격이 이어진다. 적에게 주는 총 피해가 76.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "질주",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_6.png",
+        "Tooltip": "두 번째 공격 시 한 번 더 3.0m 돌진하며 공격한다. 적에게 주는 총 피해가 58.0% 증가한다.탁월한 기동성 적용 시 추가 돌진 거리가 2.0m 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 65.1% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "신성 집중",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_188.png",
+        "Tooltip": "신앙 게이지를 획득할 수 없지만, 적에게 주는 피해가 120.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "신앙심",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_37.png",
+        "Tooltip": "공격 적중 시 신앙 게이지를 75.0% 추가 획득한다."
+      }
+    ],
+    "Tooltip": "전방으로 6.0m 돌진한 뒤, 한손검으로 베어 164,027의 피해를 준다. 추가 입력을 하면 왼손에 성검을 소환해 전방을 베어 164,027의 피해를 주고 날려버린다.무력화 : 하공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "계시의 집행",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_11.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "순례자",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_186.png",
+        "Tooltip": "더 이상 백 어택 공격이 적용되지 않지만 적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "집행 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_0.png",
+        "Tooltip": "적에게 주는 피해가 30.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "신성 집중",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_188.png",
+        "Tooltip": "신앙 게이지를 획득할 수 없지만, 적에게 주는 피해가 76.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 65.1% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "신앙심",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png",
+        "Tooltip": "공격 적중 시 신앙 게이지를 75.0% 추가 획득한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "폭발하는 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_85.png",
+        "Tooltip": "마지막 공격 발생 시, 지면에 빛이 새겨지고 0.5초 뒤 폭발이 발생해 적중된 적을 공중에 띄우며, 96.0%의 추가 피해를 입힌다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "상승하는 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_58.png",
+        "Tooltip": "올려베기 속도가 54.5% 빨라지고 적에게 주는 피해가 95.0% 증가한다."
+      }
+    ],
+    "Tooltip": "공중으로 도약하며 검을 올려베어 전방에 230,214의 피해를 주며 적을 공중에 띄운다. 이어 공중에서 성검을 소환하고 회전 베기로 230,214의 피해를 주며, 마지막으로 성검과 한손검을 동시에 교차시켜 강하게 내려찍어 690,642의 피해를 주고 날려버린다.무력화 : 중상공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "안식의 폭풍",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_12.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [중] 으로 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "넓은 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png",
+        "Tooltip": "공격 범위가 20.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "빛의 보호",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_75.png",
+        "Tooltip": "스킬 사용 시 자신에게 4.0초간 자신의 최대 생명력의 20.0%만큼 보호막이 생성된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "견고한 움직임",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_25.png",
+        "Tooltip": "스킬 시전 중 받는 모든 피해가 62.5% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png",
+        "Tooltip": "시드 이하 몬스터에게 주는 피해가 194.6% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "눈부신 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_18.png",
+        "Tooltip": "공격 적중 시 적을 2.0초간 눈부심 상태로 만든다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "신성 방출",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_56.png",
+        "Tooltip": "신앙 게이지를 획득할 수 없지만, 타격할 때마다 재사용 대기시간이 1.0초씩 감소하며, 모든 타격을 적중했을 경우 최대 16.0초까지 감소된다.넓은 타격 적용 시 공격 범위가 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "빛 반사",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_27.png",
+        "Tooltip": "스킬 시전 중 피격이상에 면역이 된다. 공격 준비 동작 중 피격 시 즉시 공격을 하며 적에게 주는 피해가 최대 90.0% 증가한다."
+      }
+    ],
+    "Tooltip": "제자리에서 회전하며 빛의 성검을 소환한 뒤, 눈부신 검격으로 주변을 3회 베어내며 주변 적에게 총 1,959,697의 피해를 주고 날려버린다.무력화 : 하"
+  },
+  {
+    "Name": "안식의 비",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_13.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "스킬 시전 속도가 18.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "빛의 속박",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_47.png",
+        "Tooltip": "공격 적중 시 3.0초간 적의 공격속도와 이동속도가 40.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "꿰뚫는 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_6.png",
+        "Tooltip": "준비 동작이 길어지며, 후방에 성검들이 소환된다. 성검을 던진 후 0.5초가 지나면, 소환된 성검들이 차례로 날아가며 적에게 주는 피해가 65.0% 증가하고, 적중된 적을 날려버린다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "쏟아지는 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_187.png",
+        "Tooltip": "생성되는 성검의 개수가 증가하고, 적에게 주는 피해가 65.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "운명의 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_52.png",
+        "Tooltip": "지점 조작으로 변경된다. 성검을 하늘로 던져 12.0m 이내 마우스 위치에 낙하시킨다. 이후 해당 지점 상공에 성검들이 일제히 낙하하여 공격한다. 적에게 주는 피해가 최대 60.0% 증가하며, 적중된 적은 넘어뜨린다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "대천사의 검",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_189.png",
+        "Tooltip": "신앙 게이지를 획득할 수 없지만, 대천사의 검들을 소환하여 적에게 주는 피해가 120.0% 증가한다.운명의 빛 적용 시 공격 범위가 20.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "재림의 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_83.png",
+        "Tooltip": "스택이 가능하게 변경되며, 최대 2회까지 충전된다. 또한, 재사용 대기시간이 6.0초 감소하며 공격 적중 시 신앙 게이지를 75.0% 추가 획득한다."
+      }
+    ],
+    "Tooltip": "성검을 소환해 전방으로 던져 1,644,114의 피해를 주고, 신성력을 폭발시켜 전방 상공에 빛으로 형성된 성검들을 소환한다. 이어 신성력을 담아 전방을 강하게 베어내면, 상공의 성검들이 빛의 궤적을 그리며 쏟아져 내려 최대 3,835,246의 피해를 주고 넘어뜨린다.무력화 : 중상슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "안식의 재",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_14.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "부위파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_20.png",
+        "Tooltip": "부위파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "스킬 시전 속도가 18.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "즉결",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_94.png",
+        "Tooltip": "즉시 신성 참격이 발생한다. 적에게 주는 피해가 70.0% 증가하고, 신앙 게이지를 50.0% 추가 획득한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "신성 집중",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_188.png",
+        "Tooltip": "신앙 게이지를 획득할 수 없지만, 적에게 주는 피해가 76.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 65.1% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "처형",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_52.png",
+        "Tooltip": "지점 조작으로 변경된다. 12.0m 이내 마우스 위치 기준으로 어둠을 모으며, 모아진 어둠을 향해 성검이 하늘에서 낙하하며 어둠을 가르고 추가적으로 연속 공격을 발생시키며 적에게 주는 피해가 76.0% 증가한다. "
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "악의 처단",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_7.png",
+        "Tooltip": "강화된 신성력으로 거대한 어둠 구체를 소환하고, 신성 참격의 위력이 함께 증폭되어 공격 범위가 40.0% 증가하고 적에게 주는 피해가 90.0% 증가한다."
+      }
+    ],
+    "Tooltip": "전방을 향해 빛의 힘을 집중시켜 흩어진 어둠을 하나로 모은다. 이어, 극대화된 신성력으로 성검을 소환하여 그 어둠을 단숨에 베어내며 637,418의 피해를 주고 적을 공중으로 띄운다. 이후, 성검에 깃든 빛의 힘이 남은 어둠을 정화하기 위해 연속된 신성 참격을 발생시켜 주변 적들에게 최대 5,734,802의 피해를 주고 날려버린다.부위 파괴 : 레벨 1무력화 : 상슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "진리의 선고",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_15.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "스킬 시전 속도가 18.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "견고한 움직임",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_25.png",
+        "Tooltip": "스킬 시전 중 받는 모든 피해가 40.8% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "마나 부여",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_79.png",
+        "Tooltip": "자신 및 첫 공격에 적중된 파티원의 마나를 3.0% 회복시킨다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "충격 방패",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_30.png",
+        "Tooltip": "재사용 대기시간이 12.0초 증가하지만, 공격 적중 시 적을 3.0초간 기절시킨다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "날려버리기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_29.png",
+        "Tooltip": "적중된 적을 날려버린다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "빛의 흔적",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_107.png",
+        "Tooltip": "적중된 대상에게 빛의 흔적을 남겨 5.0초간 자신 및 파티원이 주는 피해가 10.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "공명",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_80.png",
+        "Tooltip": "방패 방출 후, 방출된 궤적이 4.0초간 유지되며, 궤적에 닿은 적을 지속적으로 타격한다. 이때 적에게 주는 총 피해가 96.0% 증가한다.충격 방패 적용 시 첫 타격에 적중된 적만 기절시킨다.날려버리기 적용 시 첫 타격에 적중된 적만 날려버린다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "더블 쉴드",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_83.png",
+        "Tooltip": "스택이 가능하게 변경된다. 최대 2회까지 충전된다."
+      }
+    ],
+    "Tooltip": "성스러운 힘이 깃든 방패를 소환해 전방으로 날려보내며 169,783의 피해를 준다.공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "진리의 륜",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_16.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "통찰력",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_52.png",
+        "Tooltip": "스킬 사용 거리가 4.0m 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "빛의 보호",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_75.png",
+        "Tooltip": "스킬 사용 시 자신에게 4.0초간 자신의 최대 생명력의 20.0%만큼 보호막이 생성된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_61.png",
+        "Tooltip": "시드 이하 몬스터에게 주는 피해가 145.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "빛의 가호",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_25.png",
+        "Tooltip": "자신 및 파티원이 스킬 범위 안에 있을 경우 받는 모든 피해가 30.2% 감소한다. 스킬 범위를 벗어난 경우 1.5초간 유지된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "둔화 효과",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_47.png",
+        "Tooltip": "공격 적중 시 3.0초간 적의 공격속도와 이동속도가 40.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "빛의 흔적",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_107.png",
+        "Tooltip": "적중된 대상에게 빛의 흔적을 남겨 10.0초간 자신 및 파티원이 주는 피해가 10.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "추적하는 방패",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_27.png",
+        "Tooltip": "생성된 방패가 가장 가까운 적을 추적하고 적에게 주는 피해가 96.0% 증가한다. 빛의 가호 적용 시 가장 가까운 아군을 추적한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "거대한 방패",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_7.png",
+        "Tooltip": "공격 범위가 40.0% 증가하고, 적에게 주는 피해가 100.0% 증가한다."
+      }
+    ],
+    "Tooltip": "14.0m 이내 마우스 위치에 성스러운 힘이 깃든 방패를 6.0초간 소환한다. 방패가 회전하며 0.2초마다 주변 적에게 지속적인 피해를 주고, 최대 333,811의 피해를 준다."
+  },
+  {
+    "Name": "구원의 터",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_17.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "자세 유지",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_28.png",
+        "Tooltip": "공격 유지시간이 1.0초 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [중] 으로 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "탁월한 기동성",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png",
+        "Tooltip": "최대 이동 거리가 4.0m 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "눈부신 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_18.png",
+        "Tooltip": "최초 공격 적중 시 적을 2.0초간 눈부심 상태로 만든다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "내면의 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_101.png",
+        "Tooltip": "최초 공격 시 자신에게 4.0초간 자신의 최대 생명력의 30.0%만큼 보호막이 생성된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "구원의 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_65.png",
+        "Tooltip": "최초 공격 시 범위 내 자신 및 파티원에게 6.0초간 자신의 최대 생명력의 20.0%만큼 보호막이 생성된다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "숭배자",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_41.png",
+        "Tooltip": "적중된 대상을 방패쪽으로 당겨오며 적에게 주는 피해가 100.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "수호자",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_192.png",
+        "Tooltip": "더 이상 방패에서 빛의 기운을 지속적으로 방출하지 않으며, 마우스 지점으로 이동해 방어 자세를 취한 뒤 빛의 영역을 전개한다. 이동 중 가디언 몬스터를 관통한다.스킬 시전 시 자신이 받는 모든 피해가 70.0% 감소하며, 이동 및 최초 방어 자세 중 피격이상 및 상태이상에 면역이 된다.빛의 영역 안에서는 0.5초마다 자신 및 파티원이 받는 모든 피해가 1.5초간 70.0% 감소한다.방어에 성공하면 최대 2.5초간 방어 자세를 유지하며 피격이상에 면역이 된다. 또한, 7.0m 범위에 신성력을 방출해 자신 및 파티원에게 6.0초간 자신의 최대 생명력의 25.0%를 흡수하는 보호막을 생성한다.자세 유지 적용 시 방어 성공 후 유지 시간이 0.5초 증가된다."
+      }
+    ],
+    "Tooltip": "성스러운 힘이 깃든 방패를 소환하며 지정한 위치로 도약해 바닥에 내려찍고, 132,373의 피해를 준다. 이어서 3.0초간 방패에서 빛의 기운을 방출해 주변 적에게 최대 199,133의 피해를 입힌다. 시전 중 이동 시 스킬이 취소된다.무력화 : 하슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "숭고한 맹세",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_18.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "구원의 빛",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_65.png",
+        "Tooltip": "스킬 사용 시 자신 및 파티원에게 5.0초간 자신의 최대 생명력의 15.0%만큼 보호막이 생성된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "맹세의 파동",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_29.png",
+        "Tooltip": "첫 공격에 적중된 적을 날려버리고 적에게 주는 피해가 30.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png",
+        "Tooltip": "시드 이하 몬스터에게 주는 피해가 194.6% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "둔화 방패",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_47.png",
+        "Tooltip": "빛의 수호자 충돌 시 3.0초간 적의 공격속도와 이동속도가 40.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "깊어진 축복",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_96.png",
+        "Tooltip": "자신 및 파티원에게 적용되는 버프 시전자의 기본 공격력에 기반한 공격력 증가 효과가 10.0% 추가로 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "돌격 명령",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_190.png",
+        "Tooltip": "빛의 수호자가 소환될 때 신앙 게이지를 4.0% 획득한다. 소환된 모든 빛의 수호자가 바라보는 방향으로 일제히 돌격하며, 스킬의 무력화 단계가 [중] 으로 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "증원",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_191.png",
+        "Tooltip": "빛의 수호자가 3명 추가로 소환되며 소환 지속 시간이 2.0초 증가하고, 적에게 주는 피해가 96.0% 증가한다."
+      }
+    ],
+    "Tooltip": "성스러운 힘이 깃든 방패를 소환해 방어 자세를 취하는 순간, 신성력이 폭발하며 주변 적에게 406,711의 피해를 주고, 빛의 수호자들이 함께 강림한다. 소환된 빛의 수호자들은 적과 충돌할 때마다 빛의 폭발을 일으켜 110,886의 추가 피해를 준다. 또한, 신성력이 폭발할 때 축복이 내려져, 8.0초간 자신 및 24.0m 범위 안에 있는 파티원의 공격력에 버프 시전자의 기본 공격력의 6.0%만큼 더해진다.슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "구원의 은총",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_19.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "스킬 시전 속도가 18.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "신성 폭발",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_29.png",
+        "Tooltip": "적중된 적을 날려버리고 적에게 주는 피해가 30.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "정화의 방패",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_65.png",
+        "Tooltip": "보호막 부여 시 자신 및 24.0m 범위 안에 있는 파티원에게 마지막으로 걸린 해로운 효과를 1개 해제한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "경감의 방패",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_25.png",
+        "Tooltip": "보호막 부여 시, 받는 모든 피해를 20.0% 감소시키는 효과를 추가로 부여한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "신속의 방패",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_11.png",
+        "Tooltip": "보호막 부여 시, 이동 속도가 30.0% 증가하는 효과를 추가로 부여한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "보호의 은총",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_75.png",
+        "Tooltip": "보호막 효과가 50.0% 증가하고, 보호막 지속 시간이 2.0초 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "치유의 은총",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_193.png",
+        "Tooltip": "보호막 부여 시 자신과 24.0m 범위 내의 파티원이 자신의 최대 생명력의 5.0%만큼 생명력을 회복한다."
+      }
+    ],
+    "Tooltip": "성스러운 힘이 깃든 방패를 소환해 하늘을 향해 들어올리는 순간, 방패에서 신성력이 방출되며 보호막의 파장이 퍼져나가 주변 적에게 437,406의 피해를 주며, 피격이상 중인 적 공격 시 공중에 띄운다. 이 파장은 자신과 24.0m 범위 내에 있는 파티원에게 6.0초간 자신의 최대 생명력의 11.0%에 해당하는 보호막을 생성한다."
+  },
+  {
+    "Name": "숭고한 도약",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/hkf_skill/hkf_skill_01_20.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "빛의 보호",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_75.png",
+        "Tooltip": "스킬 사용 시 자신에게 4.0초간 자신의 최대 생명력의 20.0%만큼 보호막이 생성된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "강인함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_23.png",
+        "Tooltip": "스킬 시전 중 피격이상에 면역이 된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "마나의 축복",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png",
+        "Tooltip": "스킬 시전 시 8.0초간 자신 및 24.0m 범위 내의 파티원의 공격 속도가 8.0%, 마나 회복 속도가 50.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "바람의 축복",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_16.png",
+        "Tooltip": "스킬 시전 시 8.0초간 자신 및 24.0m 범위 내의 파티원의 공격 속도와 이동 속도가 각각 8.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "신속한 강림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_56.png",
+        "Tooltip": "공격 적중 시 재사용 대기시간이 3.0초 감소한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "깊어진 축복",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_96.png",
+        "Tooltip": "자신 및 파티원에게 적용되는 버프 시전자의 기본 공격력에 기반한 공격력 증가 효과가 10.0% 추가로 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "거룩한 진노",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_58.png",
+        "Tooltip": "공중으로 도약하는 속도가 40.0% 증가하고, 적에게 주는 피해가 65.0% 증가한다."
+      }
+    ],
+    "Tooltip": "지정한 위치로 도약한 뒤, 찬란한 빛과 함께 성스러운 힘이 깃든 방패를 소환해 강력한 신성력을 집중시킨다. 이어 낙하하며 그 힘을 지면에 내리꽂아, 방출된 신성력이 폭발하여 주변 적에게 1,251,788의 피해를 준다. 방패를 소환할 때, 자신과 24.0m 범위 내에 있는 파티원에게 축복을 내려, 8.0초간 받는 모든 피해를 11.0% 감소시키고, 자신 및 파티원의 공격력에 버프 시전자의 기본 공격력의 6.0%만큼이 더해진다.부위 파괴 : 레벨 1무력화 : 하슈퍼아머 : 경직 면역"
+  }
+]

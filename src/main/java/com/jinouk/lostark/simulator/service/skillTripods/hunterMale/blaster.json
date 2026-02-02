@@ -1,0 +1,257 @@
+[
+  {
+    "Name": "강화탄",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_0.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "갑옷 파괴", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_98.png", "Tooltip": "적중된 적의 모든 방어력을 8.0초간 12.0% 감소시킨다." },
+      { "Tier": 0, "Slot": 2, "Name": "급소 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_4.png", "Tooltip": "치명타 적중률이 40.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "밀쳐내기", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_60.png", "Tooltip": "적을 밀쳐내는 거리가 1m 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "포탄 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png", "Tooltip": "적에게 주는 피해가 50.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "장전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png", "Tooltip": "공격 적중 시마다 회복되는 포격 게이지가 90.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "재빠른 손놀림", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_6.png", "Tooltip": "공격속도가 36.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "빙결탄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_14.png", "Tooltip": "포탄이 관통형으로 바뀌며 [수] 속성으로 변경되어 적중된 적의 이동속도를 4초간 60.0% 감소시킨다." },
+      { "Tier": 2, "Slot": 2, "Name": "내부 발화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_13.png", "Tooltip": "공격 적중 시 발화 상태로 만들어, 3.0초 뒤에 기본 피해량의 145.0%에 해당하는 추가 피해를 입힌다." }
+    ],
+    "Tooltip": "포탄을 발사하여 869,288의 피해를 준다.무력화 : 하"
+  },
+  {
+    "Name": "산탄",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_2.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "부위파괴 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_21.png", "Tooltip": "산탄 공격에 부위파괴 1레벨이 부여된다." },
+      { "Tier": 0, "Slot": 2, "Name": "밀쳐내기", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_60.png", "Tooltip": "산탄 적중 시 경직 시간이 0.1초, 밀리는 거리가 1.0m 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "약점 포착", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_33.png", "Tooltip": "피격이상 면역인 적에게 공격 적중 시 주는 피해가 50.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "급소 타격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png", "Tooltip": "치명타 적중률이 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "꿰뚫는 일격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_2.png", "Tooltip": "공격 적중 시 적의 모든 방어력을 70.0% 무시한다." },
+      { "Tier": 1, "Slot": 3, "Name": "원거리 산탄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png", "Tooltip": "공격 거리가 20.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "섬멸 산탄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png", "Tooltip": "공격 각도가 40.0% 감소하지만, 빠르게 2회 사격하며 적에게 주는 피해가 95.2% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "내부 발화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_13.png", "Tooltip": "공격 적중 시 적을 발화 상태로 만들어, 3.0초 뒤에 기본 피해량의 80.0%에 해당하는 추가 피해를 입힌다." }
+    ],
+    "Tooltip": "부채꼴 범위에 산탄 사격을 가하여 적에게 798,676의 피해를 주고 밀어내며, 반동으로 뒤로 밀려난다.공격 타입 : 헤드 어택"
+  },
+  {
+    "Name": "개틀링건",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_12.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "강화된 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_0.png", "Tooltip": "적에게 주는 피해가 35.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "빠른 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png", "Tooltip": "재사용 대기시간이 6.0초 감소한다." },
+      { "Tier": 0, "Slot": 3, "Name": "마무리 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_32.png", "Tooltip": "생명력이 50.0% 이하인 적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "성장 탄환", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_58.png", "Tooltip": "2회 공격마다 적에게 주는 피해가 9.0%씩 최대 90.0%증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "강인함", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_23.png", "Tooltip": "스킬 시전 중 피격이상에 면역이 된다." },
+      { "Tier": 1, "Slot": 3, "Name": "단단한 갑옷", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_25.png", "Tooltip": "스킬 시전 중 모든 받는 피해가 62.5% 감소한다." },
+      { "Tier": 2, "Slot": 1, "Name": "파괴자의 의지", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_42.png", "Tooltip": "홀딩 조작으로 바뀌고, 최대 4.0초간 공격하며 적에게 주는 기본 최대 피해가62.6% 증가한다. " },
+      { "Tier": 2, "Slot": 2, "Name": "조준 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_7.png", "Tooltip": "공격 각도가 50.0% 감소하지만, 공격 거리가 50.0% 증가, 적의 물리 방어력을 90.0% 무시한다." }
+    ],
+    "Tooltip": "마우스 방향으로 회전하며 기관총을 연사하여 3초 동안 24회에 걸쳐 최대 1,622,292의 피해를 준다.슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "고압열탄",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_28.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "응축", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_42.png", "Tooltip": "1.0초간 차지하여 포탄을 발사한다. 재사용 대기시간이 9.0초 증가하지만 오버 차지 시 추가 장전하여 한 발의 포탄을 더 발사하고 적에게 주는 피해가 최대 120.0% 증가한다. 차지 실패 시에는 추가 포탄을 발사하지 않고, 피해량이 50.0% 공격 범위가 20.0% 감소한다." },
+      { "Tier": 0, "Slot": 2, "Name": "신속 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png", "Tooltip": "포탄 발사 과정을 간소화하여 빠르게 공격한다." },
+      { "Tier": 0, "Slot": 3, "Name": "기동 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_38.png", "Tooltip": "콤보 조작으로 변경되어 전방으로 7.0m 이동하며 적에게 682,513의 피해를 준 후 포탄을 발사한다." },
+      { "Tier": 1, "Slot": 1, "Name": "확산탄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png", "Tooltip": "포탄이 부채꼴 형태로 확산되며 폭발하고, 적에게 주는 피해가 46.4% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "연발 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_54.png", "Tooltip": "첫 포탄을 연속으로 2발 발사하여 적에게 주는 총 피해량이 83.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "집속탄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_8.png", "Tooltip": "마지막 포탄의 폭발 범위에 추가적인 연쇄 폭발이 일어나 적에게 주는 총 피해량이 64.7% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "치명적인 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_4.png", "Tooltip": "치명타 적중률이 60.0% 증가하고, 치명타 피해가 120.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "화약 추가", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_53.png", "Tooltip": "화약을 추가하여 폭발력이 강해지고, 시드 등급 이상의 몬스터에게 주는 피해가 120.0% 증가한다." }
+    ],
+    "Tooltip": "전방으로 포탄을 발사하고, 일정 시간 뒤 큰 폭발을 일으켜 3,410,399의 피해를 준다.부위 파괴 : 레벨 1무력화 : 중상슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "곡사포",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_4.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "갑옷 파괴", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_98.png", "Tooltip": "적중된 적의 모든 방어력을 10.0초간 12.0% 감소시킨다." },
+      { "Tier": 0, "Slot": 2, "Name": "재빠른 손놀림", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png", "Tooltip": "공격속도가 18.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "마력 조절", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png", "Tooltip": "67.0% 확률로 마나를 소비하지 않는다." },
+      { "Tier": 1, "Slot": 1, "Name": "비열한 공격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_29.png", "Tooltip": "넘어지거나 공중에 뜬 적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "마무리 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_32.png", "Tooltip": "생명력이 50% 이하인 적에게 치명타 적중률이 80.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "집중 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png", "Tooltip": "폭발 중심에 있는 적에게 공격 적중 시 주는 피해가 60.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "섬광 포탄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_53.png", "Tooltip": "포구에 기를 모은 뒤 빛나는 포탄을 발사한다. 폭발 범위가 20.0% 증가하고, 적에게 주는 피해가 119.6% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "불꽃놀이", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_8.png", "Tooltip": "곡사포를 무작위로 마구 떨어뜨리며, 적에게 주는 피해가 58.6% 증가한다." }
+    ],
+    "Tooltip": "마우스 위치에 포탄을 떨어뜨려 1,033,231의 피해를 주고 공중에 띄운다.부위 파괴 : 레벨 1무력화 : 중"
+  },
+  {
+    "Name": "네이팜탄",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_13.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "부위파괴 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_22.png", "Tooltip": "폭발 공격의 부위파괴 레벨이 1만큼 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "넓은 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png", "Tooltip": "폭발 공격 범위가 20.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "집중 표적", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png", "Tooltip": "폭발 공격에 적중된 적의 받는 무력화 피해가 4.0초간 20.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "급소 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png", "Tooltip": "폭발 공격의 치명타 적중률이 100.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "뜨거운 열기", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_45.png", "Tooltip": "화염 지대의 적에게 주는 피해가 175.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "섬광 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_30.png", "Tooltip": "폭발 공격이 적을 더 이상 공중에 띄우지 않고, 피해를 입은 적을 5.0초간 기절시킨다." },
+      { "Tier": 2, "Slot": 1, "Name": "연쇄 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_8.png", "Tooltip": "2회 연속 폭발 공격을 하고 뒤로 물러난다. 2번째 공격에서 화염 분진을 생성하여 2초간 화염 지대 피해를 준 후, 화염 지대가 폭발하여 적을 공중에 띄우며 연속 폭발 공격의 20.0% 추가 피해를 입혀 최대 95.2%증가된 피해를 준다." },
+      { "Tier": 2, "Slot": 2, "Name": "춤추는 화염", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_58.png", "Tooltip": "화염 지대가 점차 확장되고 지속 시간이 3.0초 늘어나, 화염 지대가 적에게 주는 피해가 최대 224.8% 증가한다." }
+    ],
+    "Tooltip": "네이팜탄을 폭발시켜 1,047,483의 피해를 주고 공중에 띄운다. 네이팜탄이 폭발한 지점에는 초당 139,743의 [화] 속성 피해를 주는 화염지대가 5초간 생성된다.부위 파괴 : 레벨 1무력화 : 상슈퍼아머 : 경직 면역카운터 : 가능"
+  },
+  {
+    "Name": "다연장로켓포",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_3.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "화염 로켓", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_13.png", "Tooltip": "[화] 속성으로 변경되며 적에게 주는 피해가 40.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "냉기 로켓", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_14.png", "Tooltip": "[수] 속성으로 변경되며, 피해를 입은 적에게 6.0초간 이동 속도를 26.6% 느리게하는 냉기 상태로 만든다. 냉기 상태는 최대 3회까지 중첩된다." },
+      { "Tier": 0, "Slot": 3, "Name": "거대 로켓", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_62.png", "Tooltip": "로켓 크기가 30.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "고속 연사", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_40.png", "Tooltip": "로켓 연사 속도가 100.0% 빨라지고, 발사 마다 반동으로 인해 뒤로 0.4m씩 미끄러지듯 이동한다. 적과의 거리가 멀수록 적에게 주는 피해가 최대 44.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "기절 효과", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_30.png", "Tooltip": "첫번째 로켓에 피격된 적을 7.0초간 기절시킨다." },
+      { "Tier": 1, "Slot": 3, "Name": "재빠른 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_54.png", "Tooltip": "로켓 발사 속도가 빨라지며 총 7발을 발사하여, 적에게 주는 피해가 70.8% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "레이저 포", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_87.png", "Tooltip": "직선의 적에게 로켓 대신 적을 관통하는 레이저를 연발로 발사하며, 적에게 주는 피해가 70.0% 증가한다. 고속 연사 트라이포드를 적용할 경우 적에게 주는 피해가 거리에 상관없이 추가로 10% 증가하고, 거대 로켓을 적용할 경우 폭이 20% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "접근 불가", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_8.png", "Tooltip": "전방에 큰 각도로 2배의 로켓을 발사해, 적에게 주는 피해가 최대 95.2% 증가한다." }
+    ],
+    "Tooltip": "무작위 방향으로 5발의 미사일을 순차적으로 발사하여 최대 2,710,748의 피해를 준다.무력화 : 상슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "화염방사기",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_7.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "급소 공격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_4.png", "Tooltip": "치명타 적중률이 45.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "빠른 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png", "Tooltip": "재사용 대기 시간이 9.0초 감소한다." },
+      { "Tier": 0, "Slot": 3, "Name": "장전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png", "Tooltip": "공격 적중 시마다 회복되는 포격 게이지가 45.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "충돌 무시", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_12.png", "Tooltip": "스킬 시전 중 이동 시 모험가 및 일반 몬스터와 충돌이 무시되고, 이동 속도가 20.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "원거리 화염", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png", "Tooltip": "공격 거리가 20.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "방어막", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_75.png", "Tooltip": "최대 생명력의 19.0%까지 피해를 흡수하는 보호막을 생성한다." },
+      { "Tier": 2, "Slot": 1, "Name": "푸른 불꽃", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_5.png", "Tooltip": "[수] 속성으로 변경되고, 홀딩 유지시간이 2.0초로 감소하고, 적에게 주는 총 피해가 95.2% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "불 태우기", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_45.png", "Tooltip": "보다 넓은 범위의 적들을 불태우며, 화염 공격 적중 시 적을 10.0초간 화상 상태로 만들어 초마다 142,312의 피해를 준다. 최대 5회까지 중첩된다." }
+    ],
+    "Tooltip": "한 방향으로 화염방사기를 분출하며 자유롭게 이동할 수 있다. 화염방사기는 최대 4초 동안 유지할 수 있으며, 최대 6,831,101의 [화] 속성 피해를 준다.무력화 : 중상슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "휘두르기",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_9.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "마력 조절", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png", "Tooltip": "마나 소모량이 67.0% 감소한다." },
+      { "Tier": 0, "Slot": 2, "Name": "전진 타격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png", "Tooltip": "6.0m 거리를 돌진 이동하며 적을 공격한다." },
+      { "Tier": 0, "Slot": 3, "Name": "회전 공격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_40.png", "Tooltip": "360도 회전하며 주변의 모든 적을 공격한다." },
+      { "Tier": 1, "Slot": 1, "Name": "부위파괴 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_22.png", "Tooltip": "부위파괴 레벨이 1만큼 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "빠른 공격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png", "Tooltip": "공격 속도가 20.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "마나 갈취", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_79.png", "Tooltip": "공격에 적중된 적 한 명당 휘두르기로 소모된 마나의 34.0%씩 최대 100.0% 회복한다." },
+      { "Tier": 2, "Slot": 1, "Name": "강화된 일격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_0.png", "Tooltip": "적에게 주는 피해가 145.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "기절 유지", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_44.png", "Tooltip": "기절 효과 유지시간이 3.0초 증가한다." }
+    ],
+    "Tooltip": "런처를 휘둘러 798,676의 피해를 주고, 2.0초간 기절시킨다.부위 파괴 : 레벨 1무력화 : 중상공격 타입 : 헤드 어택슈퍼아머 : 경직 면역카운터 : 가능"
+  },
+  {
+    "Name": "공중 폭격",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_6.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "발포 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_60.png", "Tooltip": "발사 전 적에게 기본 피해량의 35.0%의 추가 피해를 주며 적중된 적을 공중에 띄운다." },
+      { "Tier": 0, "Slot": 2, "Name": "빠른 발사", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png", "Tooltip": "발사 공격 속도가 42.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "뇌진탕", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png", "Tooltip": "무력화 단계 [하] 가 부여된다." },
+      { "Tier": 1, "Slot": 1, "Name": "화염 폭격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_13.png", "Tooltip": "[화] 속성으로 변경된다. 시드 등급 이상의 몬스터에게 주는 피해가 40.0% 증가하며, 포탄에 적중된 적을 5.0초간 화상 상태로 만들어 매 초마다 44,338의 피해를 준다. 화상은 최대 3회까지 중첩된다." },
+      { "Tier": 1, "Slot": 2, "Name": "냉기 폭격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_14.png", "Tooltip": "[수] 속성으로 변경되고, 포탄에 적중된 적의 이동속도를 6.0초간 26.6% 감소 시킨다. 최대 3회까지 중첩된다." },
+      { "Tier": 1, "Slot": 3, "Name": "전기 폭격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_17.png", "Tooltip": "[뇌] 속성으로 변경되고, 치명타 적중 확률이 60.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "무자비한 폭격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_54.png", "Tooltip": "포탄이 떨어지는 속도가 20.0%, 폭격 횟수가 3회 증가하여 적에게 주는 피해가 최대 119.6% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "핵폭탄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_53.png", "Tooltip": "매우 크고 강력한 단 한 발의 포탄을 떨어뜨린다. 적에게 주는 피해가 83.0%, 폭발 범위가 67.0% 증가하며, 화염 폭격과 냉기 폭격에 의한 해로운 효과는 최대 중첩 효과로 적용된다. 대상이 피격이상 면역인 경우 적에게 주는 피해가 192.8%까지 증가한다." }
+    ],
+    "Tooltip": "하늘로 쏘아 올린 여러 발의 포탄들을 무작위로 떨어뜨려 최대 4,216,774의 피해를 주며 공중에 띄운다.슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "점프 포격",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_10.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "재빠른 점프", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png", "Tooltip": "공격속도가 18.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "마력 조절", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png", "Tooltip": "67.0% 확률로 마나를 소비하지 않는다." },
+      { "Tier": 0, "Slot": 3, "Name": "근육경련", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_9.png", "Tooltip": "폭발 공격 적중 시 넘어진 상태가 0.5초 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "넓은 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png", "Tooltip": "폭발 범위가 15.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "강화된 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png", "Tooltip": "적에게 주는 피해가 50.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "약점 포착", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png", "Tooltip": "피격이상 면역인 적에게 공격 적중 시 주는 피해가 70.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "3단 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_54.png", "Tooltip": "포격 횟수가 3회로 증가하며 적에게 주는 최대 피해가 144.0% 증가하고, 마지막 포격 공격에 적들을 날려버린다." },
+      { "Tier": 2, "Slot": 2, "Name": "로켓 점프", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_10.png", "Tooltip": "포격 시 반동으로 점프하며 최대 10.0m 범위 내 지정된 위치로 이동한다." }
+    ],
+    "Tooltip": "수직으로 점프하며 자신의 발 아래쪽에 포격을 가하여 1,015,417의 피해를 주며 날려버린다.무력화 : 하슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "포탑 소환",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_5.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "고속 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png", "Tooltip": "포탑 스택 시간이 4.0초 감소한다." },
+      { "Tier": 0, "Slot": 2, "Name": "보조 배터리", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_51.png", "Tooltip": "포탑 소환 유지시간이 4.5초 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "갑옷 파괴", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_98.png", "Tooltip": "적중된 적의 모든 방어력을 6.0초간 12.0% 감소시킨다." },
+      { "Tier": 1, "Slot": 1, "Name": "강화된 포탑", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png", "Tooltip": "포탑이 적에게 주는 피해가 50.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "원거리 포탑", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_52.png", "Tooltip": "포탑의 공격 거리가 30.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "신속 설치", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png", "Tooltip": "포탑 설치 중 경직에 면역이 되고, 포탑 설치 속도가 20.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "빅 팩", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_36.png", "Tooltip": "포탑 스택 시간이 추가로 7.0초 감소하고, 포탑의 스택 개수가 최대 3개로 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "레이저 포탑", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_18.png", "Tooltip": "포탑의 공격이 레이저로 변경되며, 포탑이 적에게 주는 피해가 83.0% 증가한다." }
+    ],
+    "Tooltip": "기관총으로 무장한 포탑을 소환한다. 포탑은 10초 동안 캐릭터를 도와 주변의 적들을 공격하며, 매 공격 마다 470,298의 피해를 준다."
+  },
+  {
+    "Name": "플라즈마 스톰",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_21.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "재빠른 손놀림", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png", "Tooltip": "공격 속도가 27.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "단단한 갑옷", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_25.png", "Tooltip": "스킬 시전 중 모든 받는 피해가 51.6% 감소한다." },
+      { "Tier": 0, "Slot": 3, "Name": "기절 효과", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_44.png", "Tooltip": "짧은 시간 내 10회 적중 시 4.0초간 기절시킨다." },
+      { "Tier": 1, "Slot": 1, "Name": "고속 비행", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_11.png", "Tooltip": "플라즈마 필드 이동속도가 40.0% 빨라진다." },
+      { "Tier": 1, "Slot": 2, "Name": "지속력 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_51.png", "Tooltip": "플라즈마 필드 유지시간이 2.0초 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "대형 플라즈마", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png", "Tooltip": "플라즈마 필드 크기가 20.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "플라즈마 성장", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_58.png", "Tooltip": "0.5초가 지날 때마다 적에게 주는 피해가 최대 16.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "아이스 스톰", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_14.png", "Tooltip": "[수] 속성으로 변경되며, 플라즈마 필드 안에 있는 적의 이동속도를 70.0% 감소시킨다." }
+    ],
+    "Tooltip": "느린 속도로 비행하며 적을 추적하는 플라즈마 필드를 발사한다. 플라즈마 필드는 5초 동안 유지되며 0.5초마다 188,040의 피해를 발생시킨다.무력화 : 중"
+  },
+  {
+    "Name": "중력 폭발",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_20.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "급소 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_4.png", "Tooltip": "치명타 적중률이 45.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "집단 공격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_0.png", "Tooltip": "적에게 주는 피해가 1개체 이상일 때 20.0%, 6개체 이상일 때 40.0%, 11개체 이상일 때 80.0%, 16개체 이상일 때 120.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "기절 효과", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_30.png", "Tooltip": "폭발시 적을 더 이상 넘어뜨리지 않지만, 폭발에 적중된 적을 6.0초간 기절시킨다. 폭발의 무력화 단계가 [상] 으로 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "단단한 갑옷", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_75.png", "Tooltip": "홀딩 중 최대 생명력의 25.0%까지 피해를 흡수하는 보호막을 생성한다." },
+      { "Tier": 1, "Slot": 2, "Name": "안정화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_27.png", "Tooltip": "홀딩 중 천천히 선회가 가능하다." },
+      { "Tier": 1, "Slot": 3, "Name": "중력 회오리", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png", "Tooltip": "홀딩 중 공격 속도가 36.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "쓸어담기", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_81.png", "Tooltip": "홀딩의 공격 판정이 14.0m까지 길게 변경되며 직선 상의 적을 중력 중앙으로 끌어당기고, 홀딩 시간이 2.0초 늘어난다." },
+      { "Tier": 2, "Slot": 2, "Name": "행성 중력", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_71.png", "Tooltip": "홀딩 공격의 적을 끌어 당기는 공격의 범위가 50.0% 증가하지만 점차 줄어든다. 또한 폭발이 원형으로 변경되고, 적에게 주는 피해가 80.0% 증가한다." }
+    ],
+    "Tooltip": "중력장을 발생시켜 최대 1,409,964의 피해를 주며 적들을 끌어 당긴 뒤, 중력장을 폭발시켜 6,757,269의 피해를 주고 날려버린다.부위 파괴 : 레벨 1무력화 : 중상슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "전방 포격",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_19.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "좌표 변경", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_53.png", "Tooltip": "포격 위치가 2.0m 앞으로 변경된다." },
+      { "Tier": 0, "Slot": 2, "Name": "장전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png", "Tooltip": "포격 공격에 적중 시 회복되는 포격 게이지가 45.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "넓은 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png", "Tooltip": "폭발 범위가 10.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "빠른 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_56.png", "Tooltip": "재사용 대기시간이 3.0초 감소한다." },
+      { "Tier": 1, "Slot": 2, "Name": "강화된 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png", "Tooltip": "적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "예리한 일격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png", "Tooltip": "치명타 피해가 160.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "춤추는 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_54.png", "Tooltip": "폭발 공격이 발생한 위치 양 옆에 작은 추가 폭발이 발생하여, 적에게 주는 피해가 최대 145.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "집중 포격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png", "Tooltip": "0.7초 동안 차지 조작으로 변경되며, 차지 완료 시 적에게 주는 피해가 168.4% 증가한다." }
+    ],
+    "Tooltip": "빠른 포격으로 877,011의 피해를 준다.무력화 : 하공격 타입 : 헤드 어택카운터 : 가능"
+  },
+  {
+    "Name": "미사일 폭격",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_22.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "원거리 설치", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_52.png", "Tooltip": "유도장치 설치가능 거리가 4.0m 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "유도기능 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png", "Tooltip": "유도장치 설치 후 미사일이 날아오기까지의 시간이 1.0초 감소한다." },
+      { "Tier": 0, "Slot": 3, "Name": "슬로우 효과", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_47.png", "Tooltip": "유도장치 주변 적의 이동속도를 46.2% 감소시킨다." },
+      { "Tier": 1, "Slot": 1, "Name": "급소 폭격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png", "Tooltip": "치명타 적중률이 40.0%, 적에게 주는 피해가 30.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "약육강식", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png", "Tooltip": "하급 및 일반 몬스터에게 공격 적중 시 주는 피해가 70.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "약점 포착", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png", "Tooltip": "피격이상 면역인 적에게 공격 적중 시 주는 피해가 70.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "EMP 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_44.png", "Tooltip": "EMP 폭탄을 투하하여 시드 등급 이상의 몬스터에게 주는 피해가 40.0% 증가하고, 치명타 피해가 210.0% 증가한다. 또한 더 이상 적중된 적을 공중에 띄운지 않지만, 적을 5.0초간 기절 시키고, 무력화 단계 [하] 가 부여된다." },
+      { "Tier": 2, "Slot": 2, "Name": "원자 폭탄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_53.png", "Tooltip": "원자 폭탄을 투하하여 적에게 주는 피해가 150.0% 증가한다." }
+    ],
+    "Tooltip": "8m 범위 내 지정된 위치에 유도장치를 설치해 놓으면, 3초 후 미사일이 날아와 폭발하며 5,492,872의 피해를 주고 공중에 띄운다.부위 파괴 : 레벨 1"
+  },
+  {
+    "Name": "에너지 필드",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bs_skill/bs_skill_01_11.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "집중", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png", "Tooltip": "자신의 생명력이 30.0% 이하일 경우 모든 아이덴티티 게이지를 50.0% 획득하고, 포격 모드 쿨링을 즉시 종료한다." },
+      { "Tier": 0, "Slot": 2, "Name": "필드 방출", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_1.png", "Tooltip": "스킬 발동 시 에너지를 방출하며 주변의 적들에게 1,160,325 피해를 준다." },
+      { "Tier": 0, "Slot": 3, "Name": "정신 집중", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png", "Tooltip": "스킬 발동 시 마나를 소모하지 않는다." },
+      { "Tier": 1, "Slot": 1, "Name": "보호막 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_75.png", "Tooltip": "보호막 수치가 180.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "에너지 증가", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_51.png", "Tooltip": "보호막 유지시간이 6.0초 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "빠른 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_56.png", "Tooltip": "재사용 대기시간이 14.0초 감소한다." },
+      { "Tier": 2, "Slot": 1, "Name": "단단한 보호막", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_25.png", "Tooltip": "스킬 시전 및 보호막 효과가 유지되는 동안 피격이상에 면역이 된다." },
+      { "Tier": 2, "Slot": 2, "Name": "에너지 공유", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_65.png", "Tooltip": "자신 및 24.0m 범위 안에 있는 파티원에게 보호막 효과가 적용되지만, 보호막 수치가 절반으로 감소한다." }
+    ],
+    "Tooltip": "4초간 자신의 최대 생명력의 40%까지 피해를 흡수하는 보호막을 생성한다.슈퍼아머 : 경직 면역"
+  }
+]

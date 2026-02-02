@@ -1,0 +1,272 @@
+[
+  {
+    "Name": "불릿 해일",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_3.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "재빠른 손놀림", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png", "Tooltip": "공격 속도가 27.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "투지 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_96.png", "Tooltip": "공격 적중 시 자신 및 24.0m 범위 안에 있는 파티원의 공격력이 9.0초간 6.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "안정된 자세", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_23.png", "Tooltip": "스킬 시전 중 경직에 면역이 된다." },
+      { "Tier": 1, "Slot": 1, "Name": "강화 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png", "Tooltip": "적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "배터리 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_111.png", "Tooltip": "공격이 3회 적중할 때마다 배터리가 56씩 충전된다." },
+      { "Tier": 1, "Slot": 3, "Name": "약육 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png", "Tooltip": "네임드 이하 몬스터에게 공격 적중 시 주는 피해가 96.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "이중 탄창", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png", "Tooltip": "양손에 무기를 들고 전방을 향해 사격하여 공격 사거리가 20.0%, 공격 각도가 30.0% 증가하며, 재사용 대기시간이 4.0초 증가하지만 적중한 적 1명 당 재사용 대기시간이 1.0초씩 최대 6.0초까지 감소한다." },
+      { "Tier": 2, "Slot": 2, "Name": "강화 탄창", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_76.png", "Tooltip": "공격 각도가 30.0% 감소하지만, 공격 적중 시 적에게 주는 피해가 100.0% 증가한다." }
+    ],
+    "Tooltip": "전방을 향해 총을 들어 9회 난사하며 641,148의 피해를 주고 배터리를 30 충전한다.스킬 사용 시 재장전 버프를 획득합니다.무력화 : 하공격 타입 : 백 어택"
+  },
+  {
+    "Name": "과충전 배터리",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_4.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "배터리 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_111.png", "Tooltip": "폭발 공격 적중 시 배터리가 197만큼 충전된다." },
+      { "Tier": 0, "Slot": 2, "Name": "투지 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_96.png", "Tooltip": "공격 적중 시 자신 및 24.0m 범위 안에 있는 파티원의 공격력이 14.0초간 6.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "원거리 투척", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_52.png", "Tooltip": "투척 거리가 2.0m 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "폭발성 배터리", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png", "Tooltip": "배터리가 폭발 시 파편이 주변으로 날아가며 폭발 공격의 100.0%에 해당하는 추가 피해를 입힌다. 파편 공격은 폭발 공격과 동일한 효과가 적용된다." },
+      { "Tier": 1, "Slot": 2, "Name": "진탕 배터리", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_44.png", "Tooltip": "재사용 대기시간이 8.0초 증가하지만, 폭발 공격에 적중된 적을 3.0초간 기절시킨다." },
+      { "Tier": 1, "Slot": 3, "Name": "연속 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_78.png", "Tooltip": "폭발 공격이 적에게 주는 피해가 8.0% 감소하지만, 폭발 횟수가 2회로 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "즉시 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_78.png", "Tooltip": "배터리가 바닥에 도착하는 즉시 폭발하며, 폭발 공격의 치명타 적중률이 80.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "마인 필드", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_85.png", "Tooltip": "일반 조작으로 변경된다. 스킬 입력 시 더 이상 지정된 위치로 스킬을 사용하지 않으며, 허공으로 수많은 배터리를 던져 주변에 원형의 고리를 생성한다." }
+    ],
+    "Tooltip": "과충전된 배터리를 지정된 위치에 던진다. 배터리는 2초 동안 점화되며 392,511 의 피해를 준 후, 폭발하여 588,457의 피해를 주며 적중된 적을 공중에 띄우고 배터리를 42 충전한다.부위 파괴 : 레벨 1"
+  },
+  {
+    "Name": "기동 타격",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_9.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "보호 기동", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_25.png", "Tooltip": "구르기 사용 시, 4.0초 동안 최대 체력의 13.7%까지 흡수하는 보호막을 생성한다." },
+      { "Tier": 0, "Slot": 2, "Name": "입체 기동", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png", "Tooltip": "구르는 거리가 4.0m 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "빠른 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png", "Tooltip": "재사용 대기시간이 4.0초 감소한다." },
+      { "Tier": 1, "Slot": 1, "Name": "배터리 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_111.png", "Tooltip": "공격이 3회 적중할 때마다 배터리가 111씩 충전된다." },
+      { "Tier": 1, "Slot": 2, "Name": "날렵함", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_48.png", "Tooltip": "구르기 이후 6.0초 동안 공격 속도와 이동 속도가 19.2% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "섬광 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png", "Tooltip": "사격이 [뇌] 속성으로 변경되어 치명타 적중률이 45.0%, 치명타 피해가 100.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "회피 기동", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_26.png", "Tooltip": "구르는 도중 회피율이 30.0% 증가하며, 사격 공격이 적을 경직시키는 시간이 0.4초 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "강인함", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_23.png", "Tooltip": "재사용 대기시간이 6.0초 증가하지만, 첫 번째 구르기 도중 피격 이상에 면역이 된다." }
+    ],
+    "Tooltip": "스킬 입력 시 지정된 방향으로 6m 거리를 빠르게 구른다. 8초 내에 추가 키 입력 시, 지정된 방향을 향해 9회 사격하며 1,184,028의 피해를 주고 배터리를 45 충전한다. 추가 키 입력 시, 다시 한 번 구를 수 있다.구르기 사용 시 재장전 버프를 획득합니다.공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "전술 사격",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_6.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "진지 구축", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_112.png", "Tooltip": "스킬 취소에 따른 재사용 대기시간 감소가 적용되지 않지만, 배터리를 150 소모하여 스킬 사용 도중 최대 생명력의 17.0%에 해당하는 보호막을 획득한다. 보호막이 유지되는 동안, 피격 이상에 면역이 된다." },
+      { "Tier": 0, "Slot": 2, "Name": "재빠른 손놀림", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png", "Tooltip": "홀딩 도중 공격 속도가 18.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "배터리 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_111.png", "Tooltip": "공격이 3회 적중할 때마다 배터리가 73씩 충전된다.추가 사격 트라이포드 적용 시, 추가 사격이 1회 적중할 때마다 배터리가 73씩 충전된다." },
+      { "Tier": 1, "Slot": 1, "Name": "예열 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_32.png", "Tooltip": "남은 생명력이 80.0% 이하인 적을 공격 시 치명타 적중률이 70.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "지속 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_42.png", "Tooltip": "최대 사격 가능 시간이 2.5초로 증가하여 총 24회 사격을 가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "추가 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_72.png", "Tooltip": "퍼펙트 존이 추가되어, 성공 시 3회 사격을 가하며 기본 피해량의 80.0%에 해당하는 추가 피해를 준다." },
+      { "Tier": 2, "Slot": 1, "Name": "유연한 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_27.png", "Tooltip": "준비 동작의 공격 속도가 60.0%, 공격 사거리가 20.0% 증가하며 공격 도중 방향 전환을 할 수 있게 된다.단 추가 사격 트라이포드 적용 시, 추가 사격 도중에는 방향 전환을 할 수 없다." },
+      { "Tier": 2, "Slot": 2, "Name": "진화 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_53.png", "Tooltip": "예열 사격, 지속 사격, 추가 사격 트라이포드의 효과가 강화된다.예열 사격 트라이포드 적용 시, 남은 생명력이 80.0% 이하인 적을 공격할 때 주는 치명타 피해가 240.0% 증가한다.지속 사격 트라이포드 적용 시, 3회 사격할 때마다 적에게 주는 피해가 30.0%씩 최대 210.0%까지 증가한다.추가 사격 트라이포드 적용 시, 퍼펙트 샷 성공 시 사격하는 횟수가 4회로 증가하며 각각의 추가 사격 공격이 적에게 주는 피해가 140.0% 증가한다." }
+    ],
+    "Tooltip": "스킬 입력 시 앉아 쏴 자세를 취한 상태에서 전방을 향해 정조준하여 1.5초 동안 15회 사격을 가하여 총 2,817,609의 피해를 주고 배터리를 75 충전한다.스킬 사용 시 재장전 버프를 획득합니다.무력화 : 중공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "백플립 스트라이크",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_8.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "숙련된 움직임", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png", "Tooltip": "올려치는 공격이 생략되며, 스킬 사용 즉시 제자리에서 발구르기를 하며 뒤로 공중제비를 돈다." },
+      { "Tier": 0, "Slot": 2, "Name": "탁월한 기동성", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png", "Tooltip": "전방으로 대쉬하는 거리가 2.0m, 뒤로 점프하는 거리가 5.0m 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "넓은 폭발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png", "Tooltip": "폭발 공격의 범위가 30.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "강인함", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_23.png", "Tooltip": "뒤로 공중제비를 돌 때 피격 이상에 면역이 된다." },
+      { "Tier": 1, "Slot": 2, "Name": "충격 폭탄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_9.png", "Tooltip": "점화 폭탄이 적중된 적을 넘어뜨린다." },
+      { "Tier": 1, "Slot": 3, "Name": "관통 공격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_2.png", "Tooltip": "폭발 공격이 대상의 방어력을 90.0% 무시한다." },
+      { "Tier": 2, "Slot": 1, "Name": "즉시 발화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_53.png", "Tooltip": "발구르기와 동시에 점화 폭탄을 폭발시키며, 폭발 공격이 적에게 주는 피해가 105.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "폭탄 다발", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_54.png", "Tooltip": "최대 10명까지 발구르기 공격에 적중된 적에게 점화 폭탄을 부착하며, 폭발 공격이 적에게 주는 치명타 피해가 120.0% 증가한다." }
+    ],
+    "Tooltip": "전방으로 3m 대쉬하며 총으로 올려쳐 172,507의 피해를 준다. 추가 키 입력 시 발구르기를 하여 172,507의 피해를 주고 적중된 적 1명에게 강력한 점화 폭탄을 부착한 후 뒤로 공중제비를 돌며 8m를 이동한다. 점화 폭탄은 2초 뒤 폭발하여 반경 2m내의 적에게 805,031의 피해를 주고 경직시키며, 배터리를 60 충전한다.대쉬 공격 및 발구르기 공격 시 헤드 어택 및 카운터 어택이 가능하다.슈퍼아머 : 경직 면역카운터 : 가능"
+  },
+  {
+    "Name": "고전압탄",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_5.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "급소 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_4.png", "Tooltip": "치명타 적중률이 40.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "배터리 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_111.png", "Tooltip": "공격 적중 시 배터리가 494만큼 충전된다." },
+      { "Tier": 0, "Slot": 3, "Name": "빠른 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png", "Tooltip": "공격 적중 시 재사용 대기시간이 4.0초 감소한다." },
+      { "Tier": 1, "Slot": 1, "Name": "강력 감전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_51.png", "Tooltip": "감전 지속시간이 2.0초 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "날렵한 움직임", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png", "Tooltip": "공격 속도가 16.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "전류 방출", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_17.png", "Tooltip": "적에게 주는 피해가 70.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "출력 집중", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_87.png", "Tooltip": "공격 폭이 20.0% 감소하지만, 공격 사거리가 20.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "압축 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_49.png", "Tooltip": "준비 시간이 길어지지만 공격 폭이 20.0%, 치명타 피해가 230.0% 증가한다." }
+    ],
+    "Tooltip": "빠르게 전기 충격기를 꺼내들어 전방을 향해 사격하여 1,259,299의 [뇌] 속성 피해를 주고 적중된 대상을 2.0초간 감전시키며, 배터리를 62 충전한다.공격 타입 : 백 어택"
+  },
+  {
+    "Name": "펄스 파이어",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_7.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "뇌진탕", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png", "Tooltip": "무력화 단계가 [중]으로 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "투지 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_96.png", "Tooltip": "폭발 공격 적중 시 자신 및 24.0m 범위 안에 있는 파티원의 공격력이 13.0초간 6.0% 증가한다.펄스 차지 트라이포드 적용 시, 오버 차지 시 발사하는 탄환에 의해 획득하는 공격력 증가 효과의 지속 시간이 21.0초로 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "넓은 공격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png", "Tooltip": "탄환의 크기 및 폭발 범위가 20.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "충격 펄스", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_9.png", "Tooltip": "재사용 대기시간이 1.0초 증가하지만, 폭발 공격에 적중된 적을 넘어뜨린다." },
+      { "Tier": 1, "Slot": 2, "Name": "섬광 펄스", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_17.png", "Tooltip": "[뇌] 속성으로 변경되며 치명타 적중률이 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "배터리 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_111.png", "Tooltip": "폭발 공격 적중 시 배터리가 331만큼 충전된다." },
+      { "Tier": 2, "Slot": 1, "Name": "명사수", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_41.png", "Tooltip": "공격 속도가 27.0%, 탄환이 날아가는 속도가 20.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "펄스 차지", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_38.png", "Tooltip": "차지 조작으로 변경된다. 재사용 대기시간이 8.0초 증가하지만, 오버차지 시 더 강력한 펄스 탄환을 발사하여 적중 시 적에게 주는 피해가 168.4% 증가한다. 차지 미완료 시 기존과 동일한 공격을 한다." }
+    ],
+    "Tooltip": "전방으로 펄스 탄환을 1발 발사하여 적중된 적에게 928,661의 피해를 주며 배터리를 43 충전한다.스킬 사용 시 재장전 버프를 획득합니다.부위 파괴 : 레벨 1무력화 : 하"
+  },
+  {
+    "Name": "아발란체",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_11.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "강인함", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_23.png", "Tooltip": "돌진 시 피격 이상에 면역이 된다." },
+      { "Tier": 0, "Slot": 2, "Name": "배터리 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_111.png", "Tooltip": "돌진 공격 적중 시 배터리가 150만큼 충전된다." },
+      { "Tier": 0, "Slot": 3, "Name": "유격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png", "Tooltip": "돌진 거리가 2.0m 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "약육 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png", "Tooltip": "네임드 등급 이하의 몬스터에게 주는 피해가 75.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "깔끔한 연계", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_76.png", "Tooltip": "돌진 공격에 적중된 대상은 3.0초간 아발란체의 사격 공격으로 받는 피해가 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "영점 조준", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_28.png", "Tooltip": "사격 공격의 폭이 20.0% 감소하지만, 적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "간결한 마무리", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_41.png", "Tooltip": "돌진 공격 이후 콤보 입력 시 바로 마무리 사격을 가하며, 마무리 사격이 적에게 주는 피해가 205.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "결정타", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_49.png", "Tooltip": "사격 공격이 적에게 주는 피해가 95.0%, 치명타 피해가 50.0% 증가한다." }
+    ],
+    "Tooltip": "전방으로 돌진하며 371,045의 피해를 준다. 추가 콤보 입력 시 부채꼴 범위에 사격하여 1,113,084의 피해를 준 후, 마무리 사격을 가하여 2,226,327의 피해를 주며 배터리를 60 충전한다.돌진 공격으로 카운터 어택이 가능하며, 돌진 시 재장전 버프를 획득합니다.부위 파괴 : 레벨 1무력화 : 중공격 타입 : 백 어택슈퍼아머 : 경직 면역카운터 : 가능"
+  },
+  {
+    "Name": "명령 : M143 기관총",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_15.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "급소 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_4.png", "Tooltip": "치명타 적중률이 40.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "빠른 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png", "Tooltip": "재사용 대기시간이 4.0초 감소한다." },
+      { "Tier": 0, "Slot": 3, "Name": "정교한 명령", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_109.png", "Tooltip": "드론에게 명령을 내리는 동작이 필요해지지만, 적에게 주는 피해가 50.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "넓은 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png", "Tooltip": "공격 범위가 20.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "치명적인 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png", "Tooltip": "적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "장거리 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_42.png", "Tooltip": "이동 거리 및 사격 횟수가 20.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "약육 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_61.png", "Tooltip": "네임드 등급 이하 몬스터에게 공격 적중 시 주는 피해가 264.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "대구경 탄환", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_54.png", "Tooltip": "사격 도중 추가 탄환을 발사하여 96.0%의 추가 피해를 입힌다." }
+    ],
+    "Tooltip": "드론이 지정된 방향으로 8m 이동하며 사격하여 총 2,064,328의 피해를 준다."
+  },
+  {
+    "Name": "명령 : 액티브 펄스",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_13.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "넓은 공격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png", "Tooltip": "공격 범위가 20.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "정교한 명령", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_109.png", "Tooltip": "드론에게 명령을 내리는 동작이 필요해지지만, 적에게 주는 피해가 70.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "정밀 타격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_76.png", "Tooltip": "지점 조작으로 변경된다. 명령을 내리면 드론이 12.0m 내 지정된 위치로 이동하여 공격한다." },
+      { "Tier": 1, "Slot": 1, "Name": "펄스 보호막", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_75.png", "Tooltip": "보호형 펄스를 내뿜어, 적중된 자신 및 파티원에게 4.0초간 최대 생명력의 25.0%에 해당하는 보호막을 생성한다." },
+      { "Tier": 1, "Slot": 2, "Name": "코어 에너지 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png", "Tooltip": "적에게 공격 적중 시 획득하는 코어 에너지가 150.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "약육강식", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png", "Tooltip": "네임드 등급 이하 몬스터에게 공격 적중 시 주는 피해가 264.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "파문 펄스", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png", "Tooltip": "재사용 대기시간이 6.0초 증가하지만, 적을 중심으로 모으며 기본 피해량의 60.0%에 해당하는 피해를 준 후 강력하게 날려보내는 공격으로 변경된다." },
+      { "Tier": 2, "Slot": 2, "Name": "펄스 스택", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_83.png", "Tooltip": "스택이 가능하게 변경되며, 최대 2회 스택이 가능하다." }
+    ],
+    "Tooltip": "드론이 즉시 현재 위치에서 주변을 공격하는 펄스 파동을 내뿜어 1,055,165의 피해를 준다.부위 파괴 : 레벨 1"
+  },
+  {
+    "Name": "명령 : 플레어 빔",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_16.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "상흔", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_85.png", "Tooltip": "3.0초간 지속되는 화염 지대를 생성하여 총 피해량의 48.0%에 해당하는 [화]속성 피해를 준다." },
+      { "Tier": 0, "Slot": 2, "Name": "강화 레이저", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_112.png", "Tooltip": "배터리 소모량이 20.0% 증가하지만, 출력을 집중하여 강화된 레이저를 발사하여 적에게 주는 피해가 45.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "빠른 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png", "Tooltip": "재사용 대기시간이 4.0초 감소한다." },
+      { "Tier": 1, "Slot": 1, "Name": "프리징 빔", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_14.png", "Tooltip": "레이저 공격이 [수] 속성 공격으로 변경되며, 적중된 대상을 3.0초간 동결시킨다. 상흔 트라이포드 적용 시, 바닥의 화염 지대가 얼음 지대로 변경되어 매 초마다 [수] 속성 피해를 주며 지대 위의 적의 이동속도를 3.0초 동안 20.0% 감소시킨다." },
+      { "Tier": 1, "Slot": 2, "Name": "라이트닝 빔", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_17.png", "Tooltip": "레이저 공격이 [뇌] 속성으로 변경되어 적에게 주는 피해가 40.0% 증가하며, 네임드 등급 이상 몬스터에게 공격 적중 시 주는 치명타 피해가 50.0% 증가한다. 상흔 트라이포드 적용 시, 바닥의 화염 지대가 전류 지대로 변경되어 매 초마다 [뇌] 속성 피해를 주며 전류 지대에도 적에게 주는 피해와 치명타 피해 증가 효과가 적용된다." },
+      { "Tier": 1, "Slot": 3, "Name": "코어 에너지 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png", "Tooltip": "적에게 공격 적중 시 획득하는 코어 에너지가 150.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "레이저 쇼", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_39.png", "Tooltip": "각 레이저가 적에게 주는 피해가 3.0% 감소하지만, 레이저로 공격하는 횟수가 3회로 증가하며 두 번째 공격의 부위파괴 레벨이 3으로 증가한다.상흔 트라이포드 적용 시, 화염 지대가 매 초마다 적에게 주는 피해도 3.0% 감소하지만 지속 시간이 5.0초로 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "레이저 커팅", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_87.png", "Tooltip": "전방을 향해 일직선으로 공격하는 공격으로 변경되며, 적에게 주는 피해가 96.0% 증가한다." }
+    ],
+    "Tooltip": "드론이 지정된 위치에 레이저를 2회 발사하여 각각 957,412, 957,412의 [화] 속성 피해를 준다.부위 파괴 : 레벨 2"
+  },
+  {
+    "Name": "명령 : 블록케이드",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_14.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "일심동체", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_110.png", "Tooltip": "드론에게 동작 없이 즉시 명령을 내린다. 또한 일반 조작으로 변경되어, 명령을 내리는 즉시 드론이 현재 위치에서 스킬을 사용한다." },
+      { "Tier": 0, "Slot": 2, "Name": "배터리 절약", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_111.png", "Tooltip": "배터리 소모량이 67.0% 감소한다." },
+      { "Tier": 0, "Slot": 3, "Name": "재빠른 수행", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png", "Tooltip": "드론의 공격 속도가 18.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "폭렬 탄약", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_13.png", "Tooltip": "[화] 속성 피해를 주는 탄약을 발사하여 적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "코어 에너지 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png", "Tooltip": "적에게 공격 적중 시 획득하는 코어 에너지가 150.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "약점 포착", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png", "Tooltip": "피격이상 면역인 적에게 주는 치명타 피해가 160.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "무차별 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_71.png", "Tooltip": "더 이상 공격 범위 주변을 돌면서 공격하지 않지만, 중심부에서 바깥을 향해 회전하며 공격하여 공격 범위가 20.0%, 네임드 등급 이하 몬스터에게 주는 피해가 145.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "완전 봉쇄", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_42.png", "Tooltip": "회전 횟수가 1회 증가하여, 적에게 주는 피해가 총 120.0% 증가한다." }
+    ],
+    "Tooltip": "드론이 지정된 위치로 이동하여 3초 동안 주변을 회전 사격하며 3,405,085의 피해를 준다.무력화 : 하"
+  },
+  {
+    "Name": "명령 : 카펫",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_12.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "일심동체", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_110.png", "Tooltip": "드론에게 동작 없이 즉시 명령을 내린다." },
+      { "Tier": 0, "Slot": 2, "Name": "뇌진탕", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png", "Tooltip": "무력화 단계가 [중상]으로 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "배터리 절약", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_111.png", "Tooltip": "배터리 소모량이 36.0% 감소한다." },
+      { "Tier": 1, "Slot": 1, "Name": "정밀 포화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_76.png", "Tooltip": "지점 조작으로 변경된다. 스킬 사용 시 더 이상 전진하면서 폭탄을 투하하지 않지만, 12.0m 내 지정된 위치로 이동하여 도착 후 해당 지역에 폭탄을 떨어뜨린다." },
+      { "Tier": 1, "Slot": 2, "Name": "폭렬 포화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_62.png", "Tooltip": "각 폭탄이 적에게 주는 피해가 15% 감소하지만, 한 번에 폭탄을 양옆으로 2개씩 투하하여 적에게 주는 피해가 최대 70.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "화염 바다", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_85.png", "Tooltip": "폭탄이 떨어진 위치에 화염 장판이 생성되어 4.0초 동안 각각 폭탄 공격의 80.0%에 해당하는 [화] 속성 추가 피해를 준다." },
+      { "Tier": 2, "Slot": 1, "Name": "약점 포착", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_33.png", "Tooltip": "피격이상 면역인 적에게 공격 적중 시 주는 피해가 96.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "초토화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_7.png", "Tooltip": "폭발 공격 범위가 20.0%, 적에게 주는 피해가 60.0% 증가한다." }
+    ],
+    "Tooltip": "드론이 지정된 방향으로 이동하며 1,637,087의 피해를 주는 폭탄을 4회 투하한다.무력화 : 중"
+  },
+  {
+    "Name": "명령 : 베이비 드론",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_17.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "정교한 명령", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_109.png", "Tooltip": "드론에게 명령을 내리는 동작이 길어지지만, 적에게 주는 피해가 45.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "자폭 강화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_8.png", "Tooltip": "적에게 주는 피해가 35.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "빅 베이비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_17.png", "Tooltip": "폭발 범위가 30.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "플레임 베이비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_13.png", "Tooltip": "[화] 속성으로 변경되며, 피격이상 면역인 적에게 공격 적중 시 주는 피해가 70.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "썬더 베이비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_17.png", "Tooltip": "[뇌] 속성으로 변경되며, 적을 공격할 때 주는 치명타 피해가 160.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "코어 에너지 수급", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png", "Tooltip": "적에게 공격 적중 시 획득하는 코어 에너지가 150.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "총력전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_112.png", "Tooltip": "더 이상 스킬 사용 시 배터리를 소모하지 않지만, 자폭 드론 한 개당 배터리 자원을 100씩 소모하며 적에게 주는 피해가 170.0% 증가한다. 남은 배터리 자원이 100 미만이 될 경우 스킬 사용이 종료된다." },
+      { "Tier": 2, "Slot": 2, "Name": "일제 공격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_0.png", "Tooltip": "자폭 드론을 한꺼번에 모두 날려보내며 적에게 주는 피해가 95.0% 증가한다." }
+    ],
+    "Tooltip": "드론이 지정된 위치에 소형 자폭 드론을 9개 날려보내 총 4,318,135의 피해를 준다.무력화 : 중"
+  },
+  {
+    "Name": "명령 : 레이드 미사일",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_18.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "정교한 명령", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_109.png", "Tooltip": "드론에게 명령을 내리는 동작이 길어지지만, 적에게 주는 피해가 50.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "코어 에너지 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png", "Tooltip": "적에게 공격 적중 시 획득하는 코어 에너지가 75.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "배터리 방출", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_112.png", "Tooltip": "배터리 소모량이 20.0% 증가하지만, 적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "연발 미사일", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_38.png", "Tooltip": "미사일이 더 이상 적중된 적을 넘어뜨리지 않고 경직시키며, 대상을 관통한다. 또한 미사일을 한 번에 모두 날리지 않는 대신 전방으로 4회에 걸쳐 발사한다. 적에게 주는 총 피해는 동일하다." },
+      { "Tier": 1, "Slot": 2, "Name": "유도 미사일", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_84.png", "Tooltip": "미사일이 전방 70도 내에 있는 가장 가까운 적을 추적한다." },
+      { "Tier": 1, "Slot": 3, "Name": "오르간 미사일", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_54.png", "Tooltip": "각 미사일의 피해량이 15.0% 감소하지만, 발사하는 미사일의 개수가 2배로 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "약점 포착", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_86.png", "Tooltip": "피격이상 면역인 적에게 공격 적중 시 주는 피해가 96.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "대형 미사일", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_62.png", "Tooltip": "미사일의 크기와 폭발 범위가 20.0%, 치명타 적중률이 60.0% 증가한다." }
+    ],
+    "Tooltip": "드론이 지정된 방향으로 미사일을 6발 발사하여 총 4,182,347의 피해를 주며 적중된 적을 넘어뜨린다.무력화 : 중상"
+  },
+  {
+    "Name": "어나힐레이션 모드",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_19.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "배터리 절약", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_111.png", "Tooltip": "배터리 소모량이 36.0% 감소한다." },
+      { "Tier": 0, "Slot": 2, "Name": "제압 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png", "Tooltip": "공격 범위가 20.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "신속한 준비", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png", "Tooltip": "적중한 적 1명 당 재사용 대기시간이 1.4초씩 최대 11.8초까지 감소한다." },
+      { "Tier": 1, "Slot": 1, "Name": "편제 개편", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png", "Tooltip": "홀딩 조작으로 변경된다. 스킬 입력 시 드론과 함께 지정된 방향으로 2.0초 동안 사격하여 적에게 주는 피해가 최대 83.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "사주 경계", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_40.png", "Tooltip": "드론과 스카우터가 한 바퀴 추가로 회전하며 공격한다." },
+      { "Tier": 1, "Slot": 3, "Name": "코어 에너지 충전", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png", "Tooltip": "적에게 공격 적중 시 획득하는 코어 에너지가 150.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "전우", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_58.png", "Tooltip": "2회 사격할 때마다 드론과 스카우터의 사격 공격이 적에게 주는 피해가 29.0% 증가한다." },
+      { "Tier": 2, "Slot": 2, "Name": "십자 포화", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_43.png", "Tooltip": "드론의 공격이 [수] 속성으로 변경된다. 드론의 공격에 적중된 적은 3.0초간 이동속도가 20.0% 감소하며, 2회 중첩 시 3.0초간 동결 상태가 된다. 스카우터의 공격은 [뇌] 속성으로 변경되어 치명타 적중률이 30.0% 증가하며, 동결 상태의 적을 공격 시 치명타 피해가 592.0% 증가한다." }
+    ],
+    "Tooltip": "드론을 즉시 소환하여 서로 등을 맞대고 총 450도를 회전하며 사격한다. 스카우터와 드론은 각각 90도 회전할 때마다 2회씩 사격하여 1,111,039의 피해를 준다.무력화 : 하공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "이스케이프",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_20.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "탁월한 기동성", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png", "Tooltip": "비행 거리가 5.0m 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "배터리 절약", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_111.png", "Tooltip": "배터리 소모량이 67.0% 감소한다." },
+      { "Tier": 0, "Slot": 3, "Name": "날렵한 착지", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_11.png", "Tooltip": "착지 이후 추가 콤보 입력 시 지정된 방향으로 5.0m 거리를 구르며 이동한다." },
+      { "Tier": 1, "Slot": 1, "Name": "장거리 비행", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_42.png", "Tooltip": "방향 전환이 가능한 홀딩 조작으로 변경되어, 홀딩 시 최대 2.0초 동안 드론을 잡고 비행하며 하방부를 향해 사격한다. 탁월한 기동성 트라이포드 적용 시, 최대 홀딩 가능 시간이 2.5초로 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "고공 비행", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_12.png", "Tooltip": "드론을 잡고 날아가는 높이가 증가하여 가디언 몬스터를 뛰어넘을 수 있다." },
+      { "Tier": 1, "Slot": 3, "Name": "협동 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_8.png", "Tooltip": "비행 중 드론도 하방부를 함께 사격하여 적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 2, "Slot": 1, "Name": "응급 보호", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_75.png", "Tooltip": "8.0초 동안 최대 체력의 52.0%까지 흡수하는 보호막을 생성한다." },
+      { "Tier": 2, "Slot": 2, "Name": "약육 사격", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_61.png", "Tooltip": "네임드 이하 몬스터에게 공격 적중 시 주는 피해가 264.0% 증가한다." }
+    ],
+    "Tooltip": "드론을 즉시 소환하여 드론을 타고 전방으로 12m 거리를 이동하며 사격하여 총 1,377,179의 피해를 준다.슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "에너지 버스터",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/sc_skill/sc_skill_01_21.png",
+    "Tripods": [
+      { "Tier": 0, "Slot": 1, "Name": "응축", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_38.png", "Tooltip": "차지 단계가 한 단계 추가된다. 1단계 차지 시 기존 오버차지와 동일한 공격을 하며, 오버차지 시 적에게 주는 피해가 60.0% 증가한다." },
+      { "Tier": 0, "Slot": 2, "Name": "숙련된 움직임", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png", "Tooltip": "일반 조작으로 변경되며, 준비 이후 즉시 오버차지와 동일한 공격을 하여 적에게 주는 피해가 28.0% 증가한다." },
+      { "Tier": 0, "Slot": 3, "Name": "전력전개", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png", "Tooltip": "에너지 버스터의 폭이 40.0% 증가하며, 5명 이상의 적에게 공격 적중 시 주는 피해가 35.0% 증가한다." },
+      { "Tier": 1, "Slot": 1, "Name": "플레임 버스터", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_13.png", "Tooltip": "[화] 속성으로 변경되며, 적에게 주는 피해가 55.0% 증가한다." },
+      { "Tier": 1, "Slot": 2, "Name": "라이트닝 버스터", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_17.png", "Tooltip": "[뇌] 속성으로 변경되며, 치명타 적중률이 45.0% 증가한다. 오버차지하여 피격이상 면역인 대상에게 적중 시 치명타 적중률이 추가로 20.0% 증가한다." },
+      { "Tier": 1, "Slot": 3, "Name": "강인함", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_23.png", "Tooltip": "공격 준비 및 차지 도중 피격이상에 면역이 된다." },
+      { "Tier": 2, "Slot": 1, "Name": "레일건", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_87.png", "Tooltip": "적에게 주는 피해가 40.0% 증가하며, 배터리 소모량이 40.0%, 재사용 대기시간이 6.0초 감소한다. 또한 오버차지 시, 직격 피해가 적중된 대상의 방어력을 40.0% 무시한다." },
+      { "Tier": 2, "Slot": 2, "Name": "멜트 다우너", "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_42.png", "Tooltip": "오버차지 시 출력을 강화하여 공격 횟수가 80.0%증가하여, 적에게 주는 총 피해가 119.6% 증가한다." }
+    ],
+    "Tooltip": "드론을 즉시 소환하여 버스터로 변형시켜 자신의 팔에 부착한 뒤, 에너지를 차지하여 전방으로 방출한다. 차지 미완료 시 5,015,728의 피해를 주며 적중된 적을 경직시키고, 오버차지 시 10,030,402의 피해를 주며 적중된 적을 날려버린다.무력화 : 최상슈퍼아머 : 경직 면역"
+  }
+]

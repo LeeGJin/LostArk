@@ -1,0 +1,870 @@
+[
+  {
+    "Name": "얍!",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_8.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "우직함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_23.png",
+        "Tooltip": "스킬 시전 중 경직에 면역이 된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "갑옷 파괴",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_98.png",
+        "Tooltip": "공격에 적중된 적들의 모든 방어력을 8.0초간 12.0% 감소시킨다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "환영 충전",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_83.png",
+        "Tooltip": "스택이 가능하게 변경되며, 최대 2회까지 충전된다. 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "압축된 기운",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_42.png",
+        "Tooltip": "차지 조작으로 변경된다. 재사용 대기시간이 5.0초 증가하지만, 오버차지 시 적에게 주는 피해가 120.5% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 200.1% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "분열",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_54.png",
+        "Tooltip": "환영의 여우가 분열하여 세 갈래로 공격하며, 모두 적중 시 피해량이 최대 122.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "거대한 환영",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_62.png",
+        "Tooltip": "더 이상 적을 관통하지 않지만 공격범위가 20.0% 증가하며, 적중 시 폭발을 일으켜 적에게 주는 피해가 90.0% 증가한다."
+      }
+    ],
+    "Tooltip": "전방에 적을 관통하는 환영의 여우를 쏘아보내 적에게 430,190의 피해를 준다."
+  },
+  {
+    "Name": "할퀴기",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_9.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "우직함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_23.png",
+        "Tooltip": "스킬 시전 중 경직에 면역이 된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "부위 파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_20.png",
+        "Tooltip": "부위 파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬에 무력화 단계 [하]가 부여된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_50.png",
+        "Tooltip": "적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "돌진",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png",
+        "Tooltip": "4.0m 빠르게 돌진하여 공격한다. 치명타 피해가 200.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "치명적인 발톱",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_40.png",
+        "Tooltip": "양손을 내려찍어 적을 쓰러뜨린 후 끌어당기는 형태로 변경된다. 적에게 주는 피해가 60.0% 증가하지만, 끌어당기는 공격에는 카운터 어택이 발생하지 않는다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 96.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_61.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 264.0% 증가한다."
+      }
+    ],
+    "Tooltip": "환영의 곰과 함께 팔을 교차하며 할퀴어 전방의 적들에게 986,489의 피해를 준다.부위 파괴 : 레벨 1공격 타입 : 헤드 어택카운터 : 가능"
+  },
+  {
+    "Name": "데굴방아",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_14.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "날렵한 움직임",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png",
+        "Tooltip": "이동거리가 2.5m 증가한다. 환영 돌진 적용 시에는 소환된 환영의 곰 이동 거리가 대신 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "갑옷 파괴",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_98.png",
+        "Tooltip": "공격에 적중된 적들의 모든 방어력을 12.0초간 12.0% 감소시킨다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "폭탄 강하",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png",
+        "Tooltip": "지점 조작으로 변경된다. 제자리에서 회전하여 에너지를 모으며 2회 타격 후 공중으로 떠올라 마우스 지점으로 떨어져 적을 타격한다. 적에게 주는 피해가 최대 67.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "안정된 착지",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png",
+        "Tooltip": "준비 동작이 빨라지며, 구르는 도중 적과 부딪히는 즉시 폭발하는 공격으로 변경된다. 돌진의 폭발 피해가 67.0% 증가하며, 폭발 후 넘어지지 않고 안정적으로 착지하여 다음 행동을 빠르게 할 수 있다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "환영 돌진",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_40.png",
+        "Tooltip": "더 이상 백어택 공격이 적용되지 않지만 제자리에서 회전하여 적을 2회 타격하며 자신은 돌진하지 않고, 세 마리의 환영의 곰을 소환하여 돌진시키는 공격으로 변경된다. 적에게 주는 피해가 최대 67.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "무쇠 바위",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 96.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "가시 바위",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_49.png",
+        "Tooltip": "치명타 피해가 300.0% 증가한다."
+      }
+    ],
+    "Tooltip": "환영의 곰과 함께 공처럼 빠르게 굴러 전방으로 10.0m 이동한다. 구르는 도중 적과 부딪히면 27,327의 피해를 주고 회전을 지속해 109,306의 피해를 추가로 준다. 마지막엔 환영의 곰이 폭발하여 1,227,327의 피해를 주고 적을 날려버린다.무력화 : 중공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "꼬리 바람",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_11.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "기운 집중",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_36.png",
+        "Tooltip": "공격 적중 시 환수의 기운 회복량이 75.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "우직함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_23.png",
+        "Tooltip": "스킬 시전 중 경직에 면역이 된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "공격속도가 27.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "변화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_52.png",
+        "Tooltip": "지점 조작으로 변경된다. 환영 구체를 10.0m 내 마우스 위치로 포물선을 그리며 날리고, 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "강화된 구체",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_62.png",
+        "Tooltip": "환영 구체 크기가 20.0% 증가하고 사거리가 3.0m 증가하며, 치명타 피해가 200.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "이끌림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_84.png",
+        "Tooltip": "환영 구체가 5.0초 동안 전방 70도 내에 있는 가장 가까운 적을 추적하며, 타격 횟수가 최대 12회 증가하여 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "환영 폭발",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_53.png",
+        "Tooltip": "환영 구체가 사라질 때 한 번 더 폭발을 일으켜 기본 피해량의 96.0%에 해당하는 추가 피해를 입히고 날려버린다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "전류",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_17.png",
+        "Tooltip": "환영 구체가 [뇌] 속성으로 변경되어 적에게 주는 피해가 95.0% 증가한다."
+      }
+    ],
+    "Tooltip": "환영의 여우와 함께 공중 제비를 돌아 적을 관통하는 환영 구체를 발사한다. 환영 구체는 적과 충돌 시 속도가 느려지며 지속적으로 중심부로 적들을 끌어당겨 최대 883,701의 피해를 준다.무력화 : 중"
+  },
+  {
+    "Name": "마구 쪼기",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_12.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png",
+        "Tooltip": "공격 범위가 20.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "지속력 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_71.png",
+        "Tooltip": "스킬의 지속시간이 2.0초 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "예리한 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_49.png",
+        "Tooltip": "치명타 피해가 200.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 65.1% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 200.1% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "천둥날개",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_17.png",
+        "Tooltip": "[뇌] 속성으로 변경되며 치명타 적중률이 44.4% 증가한다. 공격 적중 시 적을 4.0초 동안 전격 상태로 만들어 매 초 마다 39,897의 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "어둠의 영역",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png",
+        "Tooltip": "지점 조작으로 변경되며 14.0m 내 마우스 지점으로 결계를 소환하여 타격 횟수가 2배 증가하고 적에게 주는 피해가 최대 100.0% 증가한다."
+      }
+    ],
+    "Tooltip": "두루마리를 펼쳐 자신을 중심으로 10.0m의 범위를 가진 결계를 6초 동안 소환한다. 이후 결계 안에 있는 임의의 적들을 추적해 까마귀가 주기적으로 날아와 공격하여 99,468의 피해를 최대 12회 준다.무력화 : 하"
+  },
+  {
+    "Name": "까마귀 대소동",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_13.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "기운 집중",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_36.png",
+        "Tooltip": "공격 적중 시 환수의 기운 회복량이 75.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "우직함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_23.png",
+        "Tooltip": "스킬 시전 중 경직에 면역이 된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "원거리 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_52.png",
+        "Tooltip": "스킬 사용 거리가 4.0m 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png",
+        "Tooltip": "공격 범위가 20.0% 증가하며, 시드 이하의 적에게 주는 피해가 200.1% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 64.8% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "강화된 폭풍",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png",
+        "Tooltip": "적에게 주는 피해가 60.0% 증가하며, 폭풍의 여파로 적을 넘어뜨린다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "정신 교감",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_83.png",
+        "Tooltip": "스택이 가능하게 변경되며, 최대 2회까지 충전된다. 까마귀 소환 속도가 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "어둠의 왕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_178.png",
+        "Tooltip": "거대한 까마귀가 나타나서 깃털 공격을 하며 치명타 피해가 300.0% 증가한다."
+      }
+    ],
+    "Tooltip": "양손으로 휘파람을 불어 10.0m 범위 내 지정된 위치에 까마귀 떼를 소환한다.소환된 까마귀 떼는 적들을 향해 강하하여 931,188의 피해를 준다.무력화 : 하"
+  },
+  {
+    "Name": "까마귀 대행진",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_10.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "날렵한 움직임",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_6.png",
+        "Tooltip": "까마귀를 타고 이동하는 속도가 27.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "까마귀의 보호",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_24.png",
+        "Tooltip": "스킬 시전 중 자신의 최대 생명력의 41.0%에 해당하는 보호막을 생성한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "까마귀의 날개",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_11.png",
+        "Tooltip": "스킬 종료 후 8.0초 동안 이동속도가 30.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png",
+        "Tooltip": "까마귀의 공격 범위가 20.0% 증가하고 까마귀를 타고 이동하는 거리가 5.0m 증가하며, 적에게 주는 치명타 피해가 200.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "신속한 이동",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png",
+        "Tooltip": "일반 조작으로 변경되며 즉시 까마귀를 타고 빠르게 움직여 이동거리가 3.0m 증가하고, 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "어둠의 왕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_178.png",
+        "Tooltip": "홀딩 조작으로 변경되며, 거대한 까마귀를 타고 자유롭게 이동할 수 있다. 홀딩 조작 종료 시 까마귀가 돌진하여 총 60.0% 증가된 피해를 주며 날려버린다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "먹이 사냥",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_56.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 264.0% 증가하며, 적을 타격할 때마다 재사용 대기시간이 0.5초씩 감소하여 최대 8.0초까지 감소된다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "어둠의 가호",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_23.png",
+        "Tooltip": "스킬 시전 중 피격이상에 면역이 되며, 적에게 주는 피해가 80.0% 증가한다."
+      }
+    ],
+    "Tooltip": "두루마리를 휘둘러 까마귀 떼를 소환해 총 650,368의 피해를 준다.추가 키 입력 시 전방으로 까마귀 떼를 타고 10.0m를 이동한다. 이동 중 모험가 및 일반 몬스터와 충돌이 무시된다.무력화 : 하공격 타입 : 백 어택슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "빙글빙글 꽝",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_15.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "단단한 갑옷",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_25.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 49.2% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "부위 파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_20.png",
+        "Tooltip": "부위 파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [최상] 으로 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "야수의 보호",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_179.png",
+        "Tooltip": "피격이상에 면역이 되고, 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 200.1% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "멈출 수 없는 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_181.png",
+        "Tooltip": "주먹을 내지르며 앞으로 4.0m 가량 전진하며 적에게 주는 피해가 총 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "혼연일체",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_49.png",
+        "Tooltip": "공격속도가 10.0% 증가하고, 치명타 피해는 300.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "불꽃 펀치",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_13.png",
+        "Tooltip": "[화] 속성으로 변경되고 마지막 공격 후 추가로 화염 폭발이 일어나 기본 피해량의 96.0%에 해당하는 추가 피해를 준다. 추가 폭발에 적중 시 적을 화상 상태로 만들어 3.0초 동안 매 초 마다 237,376의 피해를 준다."
+      }
+    ],
+    "Tooltip": "환영의 곰과 함께 팔을 빙빙 돌려 힘을 모은 다음 전방을 향해 강하게 주먹을 뻗어 7,121,299의 피해를 주며 적을 날려버린다.부위 파괴 : 레벨 1무력화 : 상슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "여우 꼬리물기",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_20.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "환수 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_35.png",
+        "Tooltip": "환수의 기운 소모량이 30.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "칼날 충전",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_83.png",
+        "Tooltip": "스택이 최대 3회까지 충전된다. 적에게 주는 피해가 65.0% 증가하고, 돌진 가능 거리가 2.5m 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "환영 급습",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_88.png",
+        "Tooltip": "환영 칼날 공격이 사라지는 순간 환영의 여우가 나타나 주변을 크게 할퀴어 기본 피해량의 96.0%에 해당하는 추가 피해를 입힌다."
+      }
+    ],
+    "Tooltip": "여우의 모습으로 둔갑한다. 기지개 자세를 취한 후 환영이 되어 8.0m 내 마우스 위치로 돌진하여 417,576의 피해를 준다. 돌진이 끝난 자리에 환영의 여우가 나타나 꼬리를 휘둘러 환영 칼날을 만들어 내고 625,906의 피해를 6회 준다. 돌진 공격으로 카운터 어택이 가능하며, 돌진이 끝난 후 즉시 다른 행동을 할 수 있다. 무력화 : 하슈퍼아머 : 경직 면역카운터 : 가능"
+  },
+  {
+    "Name": "여우 불꽃",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_21.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "기운 집중",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "공격 적중 시 여우의 기운 회복량이 45.0% 증가한다. 환수 변환 시 환수의 기운 회복량이 45.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "섬광",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png",
+        "Tooltip": "즉시 마지막 광선을 쏘아내며, 적에게 주는 피해가 140.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_1.png",
+        "Tooltip": "마지막 광선이 적에게 주는 피해가 150.0% 증가한다."
+      }
+    ],
+    "Tooltip": "여우의 모습으로 둔갑한다. 환수의 기운이 구슬의 형태로 응집되고 구슬에서 불꽃을 내뿜어 총 3,677,215의 피해를 준다. 이후 최대로 응집된 구슬이 강력한 광선을 내뿜으며 3,676,322의 피해를 주고 적을 날려버린다.부위 파괴 : 레벨 1무력화 : 중슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "여우 구슬",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_23.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "기운 집중",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "공격 적중 시 여우의 기운 회복량이 45.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "번갯불",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_17.png",
+        "Tooltip": "[뇌] 속성으로 변경되며, 치명타 피해가 200.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "무자비한 폭격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_54.png",
+        "Tooltip": "쏟아지는 환수의 기운이 증가하며 적에게 주는 피해가 100.0% 증가한다."
+      }
+    ],
+    "Tooltip": "환수의 기운이 담긴 여우 구슬을 생성한다. 여우 구슬은 환수의 기운을 날카로운 화살처럼 쏟아내며 3,856,597의 피해를 입힌다."
+  },
+  {
+    "Name": "여우 폴짝",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_22.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "환영 여우",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_52.png",
+        "Tooltip": "더 이상 직접 이동하여 공격하지 않고 환영의 여우를 소환하여 공격한다. 공격범위가 20.0% 감소하지만, 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "날카로운 이빨",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_49.png",
+        "Tooltip": "치명타 피해가 300.0% 증가한다."
+      }
+    ],
+    "Tooltip": "여우의 모습으로 둔갑한다. 여우가 바닥에 구멍을 생성하고 점프하여 들어간 후 12.0m 내 마우스 위치로 솟구치며 1,401,808, 1,423,321, 1,423,321의 피해를 주고 적을 날려버린다.부위 파괴 : 레벨 1무력화 : 중슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "슈웅 곰",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_16.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "기운 집중",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "공격 적중 시 곰의 기운 회복량이 45.0% 증가한다. 환수 변환 시 환수의 기운 회복량이 45.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [상]으로 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "압축된 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_42.png",
+        "Tooltip": "차지 단계가 3단계로 증가하며, 오버 차지 시 적에게 주는 피해가 90.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "고대의 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_176.png",
+        "Tooltip": "고대의 힘이 깨어나 덩치가 커지고 공격범위가 20.0% 증가한다. 일반 조작으로 변경되어 즉시 날아가 공격하며, 적에게 주는 피해가 70.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "환수 변환",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_177.png",
+        "Tooltip": "환수 스킬로 변경되며, 인간 형태로 환영의 곰을 소환한다.지점 조작으로 변경되며, 반경 12.0m 내 마우스 지점으로 소환된 환영의 곰이 떨어져 적중된 적을 날려버리고 치명타 피해가 360.0% 증가한다. 더 이상 스택 충전이 불가능하며, 재사용 대기시간이 6.0초 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "무쇠 포탄",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 96.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "관통 포탄",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_61.png",
+        "Tooltip": "일반 몬스터와 충돌이 무시되고, 관통하며 최대 5회 적을 타격한다. 환수 변환 시 시드 이하의 적에게 주는 피해가 90.0% 증가한다."
+      }
+    ],
+    "Tooltip": "곰의 모습으로 둔갑한다. 차지가 가능하며, 네 발로 웅크려 자세를 취해 힘을 모은 후 전방을 향해 총알처럼 튀어나가 공격한다. 차지 도중 스킬을 사용할 경우 7.0m를 날아간 후 충돌한 적에게 563,473의 피해를 주고, 1단계 차지 시 10.0m를 날아가 1,126,947의 피해를 준다. 오버차지 시 15.0m를 날아가 2,817,368의 피해를 주며 날려버린다.무력화 : 중상슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "뒤집 곰",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_17.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "단단한 갑옷",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_25.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 49.2% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "환수 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_35.png",
+        "Tooltip": "환수의 기운 소모량이 30.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "기운 집중",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "공격 적중 시 곰의 기운 회복량이 45.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "즉석 뒤집기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png",
+        "Tooltip": "일반 조작으로 변경되며 돌진하지 않고 즉시 땅을 강하게 내려친 후 지면을 뒤집는다. 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "먹이사냥",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_9.png",
+        "Tooltip": "돌진 속도가 50.0% 증가하며, 돌진 중 최대 기본 공격의 20.0%에 해당하는 피해를 주며 날려버린다. 돌진 종료 시 적에게 주는 피해가 65.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "고대의 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_176.png",
+        "Tooltip": "고대의 힘이 깨어나 덩치가 커지고 공격범위가 20.0% 증가한다. 피격이상에 면역이 되고, 적에게 주는 피해가 65.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_0.png",
+        "Tooltip": "적에게 주는 피해가 95.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "대지 충격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_182.png",
+        "Tooltip": "더 이상 지면을 뒤집지 않고 양손으로 크게 내리쳐 5.0m 반경에 충격파를 발생시키고, 적중된 대상은 3.0초간 기절 상태가 된다. 적에게 주는 피해가 90.0% 증가한다."
+      }
+    ],
+    "Tooltip": "곰의 모습으로 둔갑한다. 홀딩중에는 네 발로 빠르게 달려간다. 홀딩 종료 시 땅을 강하게 내려찍어 859,147의 피해를 주고, 지면을 뒤집어 올려 1,288,720의 피해를 주며 날려버린다.무력화 : 중슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "어흥 곰",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_18.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "곰의 기운",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_36.png",
+        "Tooltip": "스킬 시전 시 곰의 기운이 10.0% 회복된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "단단한 갑옷",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_25.png",
+        "Tooltip": "스킬 시전 중 받는 피해가 49.2% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "갑옷 파괴",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_98.png",
+        "Tooltip": "공격에 적중된 적들의 모든 방어력을 20.0초간 12.0% 감소시킨다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "고대의 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_176.png",
+        "Tooltip": "고대의 힘이 깨어나 덩치가 커지고 공격범위가 20.0% 증가한다. 시드 이하의 적에게 주는 피해가 144.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 64.8% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "두려움",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_44.png",
+        "Tooltip": "스킬 시전 중 이동속도가 30.0% 증가하고 마지막에 포효하여 기본 피해량의 60.0%에 해당하는 추가 피해를 준다. 마지막 포효 적중 시 2.0초간 적을 공포 상태로 만든다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "강화된 포효",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_23.png",
+        "Tooltip": "스킬 시전 중 피격이상에 면역이 되고, 보호막 수치가 추가로 20.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "야수의 가호",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_179.png",
+        "Tooltip": "보호막 유지시간이 6.0초 증가하고, 곰 둔갑 상태가 해제되더라도 보호막이 유지된다."
+      }
+    ],
+    "Tooltip": "곰의 모습으로 둔갑한다. 하늘을 향해 크게 포효하며 주변 적들에게 2,164,260의 피해를 준다. 포효 도중 이동이 가능하며 포효 시작 시 몸 주위로 대지의 기운이 모여들어 8초간 최대 생명력의 11%에 해당하는 보호막이 생성된다. 보호막은 곰 둔갑 상태가 해제되면 함께 사라진다.무력화 : 중슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "바위 곰",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/dr_skill/dr_skill_01_19.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [최상]으로 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "부위 파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_20.png",
+        "Tooltip": "부위 파괴 레벨이 1만큼 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "요동치는 대지",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_182.png",
+        "Tooltip": "바위를 내리찍은 곳의 지면이 흔들리며, 잠시 후 대지가 폭발하여 기본 피해량의 60.0%에 해당하는 추가 피해를 입힌다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png",
+        "Tooltip": "적에게 주는 피해가 65.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "대지의 분노",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_183.png",
+        "Tooltip": "높이 점프하여 스스로가 바위가 되어 내려 찍는다. 공격 가능한 거리가 5.0m 증가하며 점프 중 모험가 및 가디언 몬스터까지 충돌이 무시되고, 치명타 피해가 200.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "고대의 힘",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_176.png",
+        "Tooltip": "고대의 힘이 깨어나 덩치가 커지고 공격범위가 20.0% 증가한다. 스킬 시전 중  피격이상에 면역이 되며, 적에게 주는 피해가 100.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "환수 변환",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_177.png",
+        "Tooltip": "환수 스킬로 변경되며, 인간 형태로 환영의 곰을 소환하여 공격한다. 적에게 주는 피해가 144.0% 증가한다. 더 이상 스택 충전이 불가능하다."
+      }
+    ],
+    "Tooltip": "곰의 모습으로 둔갑한다. 바위를 잡고 공중으로 점프하여 7.0m 내 마우스 지점을 향해 강하게 내려 찍어 6,962,052의 피해를 주고 적을 날려버린다. 점프하여 이동중에 모험가 및 몬스터와 충돌이 무시된다.부위 파괴 : 레벨 1무력화 : 상슈퍼아머 : 경직 면역"
+  }
+]

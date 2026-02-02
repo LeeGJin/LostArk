@@ -1,0 +1,1136 @@
+[
+  {
+    "Name": "서프라이즈 어택",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_0.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "약점 노출",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_100.png",
+        "Tooltip": "쌍검 공격 적중 시 6.0초간 약점 노출 디버프를 부여하여 대상이 자신 및 파티원에게 받는 피해가 4.0% 증가한다. 대상이 헤드 어택 및 백 어택으로 피해를 받을 경우, 받는 피해 효과가 추가로 5.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "급소 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_4.png",
+        "Tooltip": "치명타 적중률이 40.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png",
+        "Tooltip": "공격 범위가 20.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "탁월한 기동성",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_10.png",
+        "Tooltip": "이동 거리가 3.0m 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "기동성 약화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_47.png",
+        "Tooltip": "공격 적중 시 적의 이동 속도가 5.0초간 57.6% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "예리한 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_5.png",
+        "Tooltip": "치명타 피해가 100.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "검풍 잔영",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_88.png",
+        "Tooltip": "돌진 전 1.0초간 유지되는 검풍을 생성해 최대 145.0%의 피해를 입히고 적을 튕겨낸다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "잔인한 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png",
+        "Tooltip": "콤보 조작으로 변경되며, 더 빠르게 돌격하여 쌍검으로 찌른 뒤 좌우로 갈라, 적에게 96.0%의 추가 피해를 주고 밀어낸다."
+      }
+    ],
+    "Tooltip": "빠르게 4m 가량 돌진하고 쌍검을 교차로 휘둘러 적에게 392,071의 피해를 준다. 부위 파괴 : 레벨 1 무력화 : 하 공격 타입 : 백 어택 슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "어퍼 슬래쉬",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_1.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "단단한 갑옷",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_25.png",
+        "Tooltip": "스킬 사용 중 받는 피해가 51.6% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "공격 속도가 27.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "급소 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_4.png",
+        "Tooltip": "치명타 적중률이 40.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "당기는 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_71.png",
+        "Tooltip": "첫 번째 공격의 범위가 20.0% 증가하고, 적들을 끌어모은다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "강력한 회오리",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_39.png",
+        "Tooltip": "두 번째 공격의 회오리가 더욱 강력해져, 적을 띄우는 높이와 체공 시간이 증가하며, 회오리의 치명타 적중률이 100.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "대형 회오리",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_85.png",
+        "Tooltip": "세 번째 공격이 추가된다. 장검으로 상승 베기를 하며, 더 큰 회오리가 생성되어 적을 공중에 띄우고 적에게 주는 피해가 80.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "날카로운 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [중상] 으로 증가하고, 적에게 주는 치명타 피해가 100.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "강인함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_23.png",
+        "Tooltip": "스킬 시전 중 피격이상에 면역이 되고, 재사용 대기 시간이 6.0초 증가한다."
+      }
+    ],
+    "Tooltip": "쌍검을 가볍게 휘둘러 189,377의 피해를 주고, 올려치는 공격으로 회오리를 만들어 284,066의 피해를 주며 적을 공중에 띄운다. 무력화 : 하 공격 타입 : 백 어택"
+  },
+  {
+    "Name": "윈드 컷",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_6.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "기동성 약화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_47.png",
+        "Tooltip": "스킬에 적중 시 적의 이동 속도가 5.0초간 46.2% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_61.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "빠른 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png",
+        "Tooltip": "재사용 대기 시간이 4.0초 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "소용돌이",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_71.png",
+        "Tooltip": "범위가 20.0% 증가하고, 적을 끌어당기는 거리가 20.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "급소 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png",
+        "Tooltip": "치명타 적중률이 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "지속력 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_51.png",
+        "Tooltip": "검기의 지속 시간이 증가하고, 적에게 주는 피해가 최대 70.8% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "검기 폭발",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_53.png",
+        "Tooltip": "검기가 소멸할 때 응축된 검기가 폭발하여 적에게 기본 피해량의 80.0% 에 해당하는 피해를 주며, 적을 날려버린다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "두터운 검기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_7.png",
+        "Tooltip": "검기가 점차 커지면서 최대 100.0% 넓은 범위의 적을 타격한다."
+      }
+    ],
+    "Tooltip": "쌍검으로 전방을 신속하게 베어내 1.5초 동안 유지되는 검풍을 생성하여 적에게 최대 726,843의 피해를 주고 끌어모으며, 몬스터가 피격 이상 중일 때 공격 적중 시 다시 공중에 띄운다. 무력화 : 하 공격 타입 : 백 어택"
+  },
+  {
+    "Name": "폴스타",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_13.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "빠른 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png",
+        "Tooltip": "재사용 대기 시간이 4.0초 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "급소 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_4.png",
+        "Tooltip": "치명타 적중률이 40.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "강인함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_23.png",
+        "Tooltip": "공중 공격 중 피격 이상에 면역이 된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "오브 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_37.png",
+        "Tooltip": "블레이드 오브 게이지 획득량이 75.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "급습",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_10.png",
+        "Tooltip": "전방으로 4.0m 접근 후 공격한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "문 스타",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_5.png",
+        "Tooltip": "쌍검 공격이 사라지지만, 적을 띄워 올린 후 거대한 검으로 적을 내려찍어 적에게 주는 피해가 144.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "스타 더스트",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_42.png",
+        "Tooltip": "홀딩 조작으로 변경된다. 공중 공격 횟수가 증가하고, 공중 공격으로 적에게 주는 피해가 283.0% 증가한다."
+      }
+    ],
+    "Tooltip": "장검으로 적을 올려쳐 108,676의 피해를 주고 띄운 뒤, 공중에 뛰어 올라 쌍검으로 추가 타격해 최대 652,298의 피해를 주고, 장검으로 내리쳐 326,029의 피해를 주면서 적을 바닥으로 내려찍는다. 무력화 : 중 공격 타입 : 백 어택 슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "스핀 커터",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_8.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png",
+        "Tooltip": "공격 범위가 15.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "약점 노출",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_100.png",
+        "Tooltip": "공격 적중 시 10.0초간 약점 노출 디버프를 부여하여 대상이 자신 및 파티원에게 받는 피해가 4.0% 증가한다. 대상이 헤드 어택 및 백 어택으로 피해를 받을 경우, 받는 피해 효과가 추가로 5.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "공격 속도가 27.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "단단한 갑옷",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_25.png",
+        "Tooltip": "스킬 사용 중 받는 피해가 51.6% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "강회전",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_71.png",
+        "Tooltip": "각 공격 마다 이동 거리가 2.0m 증가하고, 적이 밀리는 거리가 20.0% 증가한다. 킹 스핀 적용 시에는 4.0m 만큼 이동 거리가 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "빠른 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_56.png",
+        "Tooltip": "재사용 대기 시간이 5.0초 감소한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "트리플 스핀",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_38.png",
+        "Tooltip": "콤보 가능 횟수가 1회 추가되어, 최대 3회까지 연속으로 사용이 가능하다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "킹 스핀",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_88.png",
+        "Tooltip": "일반 조작으로 변경되며, 8.0m를 한 번에 이동하며 공격한다."
+      }
+    ],
+    "Tooltip": "마우스 방향으로 쌍검을 돌리며 5m 가량 이동하면서 공격해 최대 420,073의 피해를 준다. 최대 2회까지 연속 사용할 수 있다. 공격 타입 : 백 어택 슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "블레이드 댄스",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_2.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "암흑 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_19.png",
+        "Tooltip": "[암] 속성으로 변경되고, 적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "화염 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_13.png",
+        "Tooltip": "[화] 속성으로 변경되고, 공격 적중 시 5.0초간 대상에게 26,088의 화상 피해를 준다. 화상은 최대 5중첩이 가능하다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "냉기 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_14.png",
+        "Tooltip": "[수] 속성으로 변경되고, 3.0초간 냉기 상태를 걸어 이동 속도를 20.0% 감소시킨다. 냉기는 최대 3중첩이 가능하며, 3중첩 시 적을 3.0초간 동결 상태로 만든다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "빠른 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_56.png",
+        "Tooltip": "재사용 대기 시간이 8.0초 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "급소 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png",
+        "Tooltip": "치명타 적중률이 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "마무리 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png",
+        "Tooltip": "마무리 공격이 장검으로 변경되어 공격 범위가 증가하고 적에게 주는 피해가 317.0% 증가한다. 장검 공격 적중 시 경직 시간과 밀리는 거리가 길어진다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "난도질",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_39.png",
+        "Tooltip": "마무리 공격이 없어지고 홀딩 조작으로 변경된다. 공격 범위가 30.0% 증가하고 천천히 선회가 가능해진다. 쌍검 타격 횟수가 증가하고 적에게 주는 피해가 145.0% 증가한다."
+      }
+    ],
+    "Tooltip": "쌍검으로 5회 난도질 공격을 하여 적에게 971,518의 피해를 준 뒤, 마무리 공격으로 416,606의 피해를 준다. 적이 피격 이상 중일 때 공격 적중 시 다시 공중에 띄운다. 무력화 : 하 공격 타입 : 백 어택 슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "다크 악셀",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_11.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "공격 속도가 27.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "가벼운 발걸음",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_11.png",
+        "Tooltip": "스킬 사용 후 4.0초간 이동 속도가 30.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "강인함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_23.png",
+        "Tooltip": "공중 공격 중 피격 이상에 면역이 된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "강회전",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_10.png",
+        "Tooltip": "회전 공격의 이동 거리가 3.0m 증가하고, 적을 타격하는 횟수가 증가하여 적에게 주는 피해가 44.8% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "급소 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png",
+        "Tooltip": "치명타 적중률이 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "어퍼 악셀",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_9.png",
+        "Tooltip": "마지막 장검 공격이 올려치는 공격으로 변경되어 피해가 240.0% 증가하고 전방의 적을 높이 띄운다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "하이 악셀",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_12.png",
+        "Tooltip": "이동 거리가 4.0m 증가하고 마지막 장검 공격이 사라지지만, 더 높이 점프하여 가디언 몬스터를 뛰어 넘을 수 있다. 강회전을 적용할 경우 이동 거리는 6.0m 증가로 적용된다."
+      }
+    ],
+    "Tooltip": "전방으로 6m 가량 낮은 점프로 전진하면서 쌍검으로 적을 밀어내는 공격을 해 501,417의 피해를 주고, 착지 후 장검으로 크게 베어 334,279의 피해를 주고 날려버린다. 적이 피격 이상 중일 때 공격 적중 시 다시 공중에 띄운다. 무력화 : 하 공격 타입 : 백 어택 슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "소울 앱소버",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_7.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png",
+        "Tooltip": "찌르기 공격의 공격 거리가 30.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [중상] 으로 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "공격 속도가 27.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "암흑 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_19.png",
+        "Tooltip": "[암] 속성으로 변경되고, 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "화염 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_13.png",
+        "Tooltip": "[화] 속성으로 변경되고, 치명타 적중률이 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "냉기 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_14.png",
+        "Tooltip": "[수] 속성으로 변경되며, 적을 더 이상 날리지 않지만 5.0초간 동결 상태로 만든다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "강력한 찌르기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_87.png",
+        "Tooltip": "일반 조작으로 변경된다. 공격 폭이 30.0% 증가하고, 적에게 주는 피해가 80.0% 증가하며 블레이드 오브 게이지 획득량이 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "반 가르기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png",
+        "Tooltip": "오버차지 시 찌르기 공격으로 적을 날리지 않지만, 찌른 후 마우스 방향으로 이동하고 베면서 날려버려, 적에게 주는 피해가 최대 144.0% 증가한다."
+      }
+    ],
+    "Tooltip": "차지가 가능하며, 장검으로 깊게 찔러, 차지 완료 전 402,665, 오버차지 시 1,610,419의 피해를 주고 적을 날려버린다. 부위 파괴 : 레벨 1 무력화 : 중 공격 타입 : 백 어택 슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "데스 센텐스",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_4.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "탁월한 기동성",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_10.png",
+        "Tooltip": "이동 거리가 4.0m 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "빠른 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png",
+        "Tooltip": "재사용 대기 시간이 6.0초 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "부위파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_20.png",
+        "Tooltip": "스킬에 부위파괴 1 레벨이 부여된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "확인 사살",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_29.png",
+        "Tooltip": "적에게 주는 피해가 50.0% 증가하고 대상이 무력화 상태라면 추가로 주는 피해가 50.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_69.png",
+        "Tooltip": "무력화가 [중상]으로 변경되며, 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "냉기 지대",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_14.png",
+        "Tooltip": "[수] 속성으로 변경되고, 마지막 공격 시 5.0초간 차가운 냉기 지대를 생성한다. 냉기 지대의 범위 내로 들어오는 적의 이동 속도를 20.0% 감소시킨다. 냉기 효과는 1.0초간 유지되고 3중첩이 가능하다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "회심의 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_41.png",
+        "Tooltip": "지점 조작으로 변경되며, 더 높게 순간 이동 후 내려찔러 피격이상 면역인 적에게 주는 피해가 120.0% 증가하고 최대 이동 가능 거리가 1.0m 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "폭발",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_78.png",
+        "Tooltip": "공격 범위가 30.0% 증가하며, 지면을 발로 한번 더 내려쳐 적에게 주는 피해가 80.0% 증가하고 적을 공중에 띄운다."
+      }
+    ],
+    "Tooltip": "전방으로 4m 가량 뛰어들어 쌍검으로 내려찌르기를 해 1,405,979의 피해를 주고, 적을 바닥으로 내려찍는다. 무력화 : 중 공격 타입 : 백 어택 슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "트윈 쉐도우",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_5.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "오브 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "블레이드 오브 게이지 획득량이 75.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [중상] 으로 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png",
+        "Tooltip": "공격 범위가 20.0% 증가한다. "
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "급소 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png",
+        "Tooltip": "치명타 적중률이 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "하단 가르기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png",
+        "Tooltip": "선채로 장검을 주변으로 넓게 베어버린 후, 자세를 낮추며 주위를 더 크게 베어버리고 적에게 주는 피해가 160.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "전진 베기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_83.png",
+        "Tooltip": "전방으로 5.0m 가량 전진하며 베기를 펼치고 경직 면역 상태가 된다. 스택이 가능하게 변경되고 15.0초 마다 1회 충전되며 최대 2회 까지 충전되며, 적에게 주는 피해가 120.0% 증가한다."
+      }
+    ],
+    "Tooltip": "장검을 횡으로 빠르게 베어 1,027,584의 피해를 준다. 무력화 : 중 공격 타입 : 백 어택"
+  },
+  {
+    "Name": "어스 슬래쉬",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_3.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [중상] 으로 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_3.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "밀어내기",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_60.png",
+        "Tooltip": "공격 전 4.0m를 돌격해 적을 밀어내어, 적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "암흑 주입",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_19.png",
+        "Tooltip": "[암] 속성으로 변경되고, 적중된 적의 몸에서 2.0초간 유지되고 3초 뒤 암흑 기운이 폭발하여 적에게 60.0%의 추가 피해를 입히고 밀어낸다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "기절 효과",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_30.png",
+        "Tooltip": "장검 공격에 적이 더 이상 넘어지지 않지만, 4.0초간 기절 시킨다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 70.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "도약 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_39.png",
+        "Tooltip": "전방으로 6.0m 가량 몸을 날리고 장검으로 내려찍으며 적에게 주는 피해가 100.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "대지 폭발",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_54.png",
+        "Tooltip": "공격 후 바닥에서 전방으로 진행되는 기운이 순차적으로 올라와 땅과 함께 적을 날려버려, 적에게 주는 피해가 최대 129.6% 증가한다."
+      }
+    ],
+    "Tooltip": "장검을 종으로 강하게 베어 1,257,831의 피해를 주고 적을 바닥으로 내려찍는다. 부위 파괴 : 레벨 1 무력화 : 중 공격 타입 : 백 어택 카운터 : 가능"
+  },
+  {
+    "Name": "헤드 헌트",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_17.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "빠른 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_56.png",
+        "Tooltip": "재사용 대기 시간이 4.0초 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "마력 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_34.png",
+        "Tooltip": "마나 소모량이 67.0% 감소한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "무기 파괴",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_46.png",
+        "Tooltip": "피격된 적의 공격력이 4.0초간 25.0% 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "퀵 헌트",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png",
+        "Tooltip": "손잡이 치기가 사라지지만, 더 빠르게 제자리에서 공격한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "다운 헌트",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_9.png",
+        "Tooltip": "기절 효과가 사라지지만, 세로 베기로 변경되어 적을 넘어뜨린다. 기절 강화를 적용할 경우 체공 시간과 다운 시간이 20.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_0.png",
+        "Tooltip": "적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_33.png",
+        "Tooltip": "피격이상 면역인 적에게 주는 피해가 94.8% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "기절 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_51.png",
+        "Tooltip": "기절 시간이 3.0초 증가한다."
+      }
+    ],
+    "Tooltip": "장검 손잡이로 가격해 295,902의 피해를 주고 적을 밀어낸 뒤, 전방으로 4m 가량 이동하며 적의 머리를 재빠르게 가격해 295,902의 피해를 주고 1.0초간 기절 시킨다. 무력화 : 하 공격 타입 : 헤드 어택 카운터 : 가능"
+  },
+  {
+    "Name": "문라이트 소닉",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_10.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "암흑 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_19.png",
+        "Tooltip": "[암] 속성으로 변경되고, 적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "화염 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_13.png",
+        "Tooltip": "[화] 속성으로 변경되고, 바닥에 불길이 생성되어 범위 내에 들어오는 적에게 5.0초간 대상에게 25,795의 화상 피해를 준다. 화상은 최대 5중첩이 가능하다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "냉기 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_14.png",
+        "Tooltip": "[수] 속성으로 변경되며, 바닥에 냉기가 생성되어 범위 내에 들어오는 적에게 6.0초간 냉기 상태를 걸어 이동 속도를 26.6% 감소시킨다. 냉기 상태는 3중첩이 가능하다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "빠른 준비",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_56.png",
+        "Tooltip": "재사용 대기 시간이 11.0초 감소한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "지속력 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_42.png",
+        "Tooltip": "홀딩 조작으로 변경되고, 적을 타격하는 시간이 2배 증가하여 적에게 주는 피해가 총 80.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "집중 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png",
+        "Tooltip": "치명타 적중률이 80.0% 증가하지만, 공격 범위가 20% 감소한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "전진 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_10.png",
+        "Tooltip": "매 공격 마다 3.0m씩 전진 후 주위를 타격하는 방식으로 변경된다. 지속력 강화를 적용할 경우 최대 2회 더 전진하고, 피해 증가 효과는 50.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "쉐이드 소닉",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_8.png",
+        "Tooltip": "더욱 빠르게 휘몰아치며, 적에게 주는 피해가 105.0% 증가한다."
+      }
+    ],
+    "Tooltip": "쌍검을 사용해 전방을 재빠른 속도로 휩쓸어 최대 1,848,933의 피해를 주고 적을 끌어모은다. 슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "터닝 슬래쉬",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_9.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "약점 노출",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_100.png",
+        "Tooltip": "공격 적중 시 12.0초간 약점 노출 디버프를 부여하여 대상이 자신 및 파티원에게 받는 피해가 4.0% 증가한다. 대상이 헤드 어택 및 백 어택으로 피해를 받을 경우, 받는 피해 효과가 추가로 5.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_61.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 80.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_0.png",
+        "Tooltip": "적에게 주는 피해가 40.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [중상] 으로 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "부위파괴 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_20.png",
+        "Tooltip": "회전 공격 마다 부위파괴 1 레벨이 부여된다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "강인함",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_23.png",
+        "Tooltip": "피격 이상에 면역이 된다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "집중 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_40.png",
+        "Tooltip": "제자리에서 장검으로 주위를 크게 베어버리고 검풍을 발생시킨다. 주위의 적을 4회 끌어모으며 적에게 주는 피해가 130.0% 증가한다. 부위파괴 강화를 적용할 경우 검풍 공격에는 부위파괴 효과가 발생하지 않는다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "트리플 턴",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_39.png",
+        "Tooltip": "3회전 공격으로 변경되어, 적에게 주는 피해가 105.0% 증가한다."
+      }
+    ],
+    "Tooltip": "5m 가량 전진하면서 장검을 크게 2회 휘둘러 1,097,438, 897,738의 피해를 준다. 무력화 : 중 공격 타입 : 백 어택"
+  },
+  {
+    "Name": "마엘스톰",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_12.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "차가운 접촉",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_14.png",
+        "Tooltip": "[수] 속성으로 변경되고, 피격 시 4.0m 내의 적을 4.0초간 동결 시키고 마엘스톰 버프가 즉시 종료된다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "오브 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "마엘스톰 버프 유지 중 일반 스킬 및 각성기 적중 시 획득하는 블레이드 오브 게이지 획득량이 30.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png",
+        "Tooltip": "지속 피해의 범위가 15.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "다크 오더",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_6.png",
+        "Tooltip": "스킬 시전 시 자신 및 24.0m 범위 안에 있는 파티원에게 6.0초간 이동 속도가 12.8% 증가하고, 공격 속도가 12.8% 증가하는 다크 오더 버프를 추가로 적용한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "위압",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_61.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 145.0% 증가하고, 지속 피해가 일반 몬스터에게 경직을 유발한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "윈드 스톰",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_54.png",
+        "Tooltip": "스킬 시전 시 주위의 적에게 피해를 주지 않지만, 주변으로 회오리를 발사해 적에게 주는 총 피해가 20.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "안정된 기운",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_23.png",
+        "Tooltip": "마엘스톰 버프 유지 중 경직에 면역이 되지만, 재사용 대기시간이 5.0초 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "퀵 캐스트",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_83.png",
+        "Tooltip": "스킬 시전에 걸리는 시간이 60.0% 감소한다. 스택이 가능하게 변경되고 30.0초 마다 1회 충전되며 최대 2회 까지 충전된다. 윈드 스톰을 적용할 경우 준비 동작은 변경되지 않는다."
+      }
+    ],
+    "Tooltip": "자신을 보호하는 회오리를 생성해 152,712의 피해를 주고, 6초 동안 주위의 적에게 매 초 102,087의 피해를 준다."
+  },
+  {
+    "Name": "페이탈 웨이브",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_15.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "오브 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "블레이드 오브 게이지 획득량이 75.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "공격 속도가 27.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "약육강식",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_61.png",
+        "Tooltip": "시드 이하의 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_7.png",
+        "Tooltip": "공격 범위가 15.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "급소 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_4.png",
+        "Tooltip": "치명타 적중률이 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "약점 포착",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_33.png",
+        "Tooltip": "피격이상 면역인 적에게 공격 적중 시 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "더블 웨이브",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_88.png",
+        "Tooltip": "검풍을 2개씩 발사해 적에게 주는 피해가 95.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "데스 웨이브",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_87.png",
+        "Tooltip": "빠르고 강력한 1개의 검기를 발사해 적들에게 피해를 주며 날아가, 적에게 주는 피해가 최대 145.0% 증가한다."
+      }
+    ],
+    "Tooltip": "장검을 3번 휘둘러 검풍으로 272,229, 272,229, 362,972의 피해를 준다. 무력화 : 하 공격 타입 : 백 어택"
+  },
+  {
+    "Name": "블리츠 러시",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_16.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png",
+        "Tooltip": "공격 범위가 20.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "강화된 일격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_0.png",
+        "Tooltip": "적에게 주는 피해가 35.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "급소 타격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_4.png",
+        "Tooltip": "치명타 적중률이 40.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "올라운드",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_41.png",
+        "Tooltip": "일반 조작으로 변경되며 준비 시간이 짧아지고, 오버 차지 시와 동일한 공격을 한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "차지 강화",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_58.png",
+        "Tooltip": "차지 단계가 올라갈수록 적에게 주는 피해가 40.0%씩 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "다크 차지",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_71.png",
+        "Tooltip": "차지 단계가 올라갈 때 마다 암흑 기운으로 주위의 적을 조금씩 끌어 당긴다. 끌어 당기는 공격은 최대 피해량의 70.0%에 해당하는 추가 피해를 준다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "쉐도우 러시",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_88.png",
+        "Tooltip": "자신 대신 잔상이 공격해 적에게 주는 피해가 80.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "듀얼 블리츠",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_50.png",
+        "Tooltip": "오버차지 시 장검 공격이 사라지지만, [화] 속성과 [수] 속성으로 공격하며, 적에게 주는 피해가 50.0% 증가한다."
+      }
+    ],
+    "Tooltip": "차지가 가능하며, 차지가 끝나면 5m 가량 전진 후 공격한다. 차지 완료 전 공격 시 쌍검으로 1,022,013의 피해를 주고, 1차지 공격 시 쌍검으로 2,044,504 피해를 주며, 오버차지 시 쌍검으로 2,044,504의 피해를 주고 장검으로 1,363,008 피해를 주면서 날려버린다. 무력화 : 중 공격 타입 : 백 어택 슈퍼아머 : 경직 면역"
+  },
+  {
+    "Name": "보이드 스트라이크",
+    "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/bl_skill/bl_skill_01_14.png",
+    "Tripods": [
+      {
+        "Tier": 0,
+        "Slot": 1,
+        "Name": "재빠른 손놀림",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_41.png",
+        "Tooltip": "공격 속도가 27.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 2,
+        "Name": "넓은 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_7.png",
+        "Tooltip": "공격 범위가 20.0% 증가한다."
+      },
+      {
+        "Tier": 0,
+        "Slot": 3,
+        "Name": "오브 조절",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_1_37.png",
+        "Tooltip": "블레이드 오브 게이지 획득량이 75.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 1,
+        "Name": "암흑 공격",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_19.png",
+        "Tooltip": "[암] 속성으로 변경되고, 적에게 주는 피해가 60.0% 증가한다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 2,
+        "Name": "공허 지대",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_85.png",
+        "Tooltip": "올려베기 공격 시 바닥에 5.0초간 공허 지대가 생성된다. 지대에 닿은 적의 이동 속도를 50.0% 감소시키며, 암흑 상태를 건다."
+      },
+      {
+        "Tier": 1,
+        "Slot": 3,
+        "Name": "뇌진탕",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_2_69.png",
+        "Tooltip": "스킬의 무력화 단계가 [상] 으로 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 1,
+        "Name": "오버 슬래쉬",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_42.png",
+        "Tooltip": "차지 조작으로 변경되며, 오버 차지 시 적에게 주는 피해가 80.0% 증가한다. 대상이 무력화 상태일 경우, 주는 피해가 50.0% 증가한다."
+      },
+      {
+        "Tier": 2,
+        "Slot": 2,
+        "Name": "라이징 슬래쉬",
+        "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/tripod_tier/tripod_tier_3_39.png",
+        "Tooltip": "올려베기 공격 이후 추가로 올려베기를 펼치며 적에게 주는 피해가 60.0% 증가한다."
+      }
+    ],
+    "Tooltip": "5m 가량 전진하며, 장검으로 올려베기를 펼친다. 전진 경로에 있는 적을 띄우고 밀어내며 1,908,114의 피해를 준다. 무력화 : 중 공격 타입 : 백 어택 슈퍼아머 : 경직 면역"
+  }
+]
