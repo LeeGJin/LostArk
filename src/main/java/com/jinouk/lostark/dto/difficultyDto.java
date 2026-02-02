@@ -7,15 +7,17 @@ import java.util.List;
 @Setter
 
 public class difficultyDto {
-    private String type;
+    private String difficulty;
+    private String gate;
+    private int level;
     private int gold;
     private int extraRewardCost;
-    private List<String> mandatoryDrops;
 
-    public difficultyDto(String type, int gold, int extraRewardCost, List<String> mandatoryDrops) {
-        this.type = type;
+    public difficultyDto(String difficulty, String gate, int level, int gold, int extraRewardCost) {
+        this.difficulty = difficulty;
+        this.gate = gate;
+        this.level = level;
         this.gold = gold;
         this.extraRewardCost = extraRewardCost;
-        this.mandatoryDrops = mandatoryDrops;
     }
 }

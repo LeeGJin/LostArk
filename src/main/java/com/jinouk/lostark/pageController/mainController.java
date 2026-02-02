@@ -11,12 +11,11 @@ import java.util.List;
 
 @RestController
 @RequiredArgsConstructor
-@CrossOrigin(origins = "http://localhost:3001")
 public class mainController {
 
     private final raidService raidService;
 
-    @GetMapping("/raid")
+    @GetMapping("/goldCalculator")
     List<raidDto> getRaidList() {
         return raidService.getRaidList();
     }
