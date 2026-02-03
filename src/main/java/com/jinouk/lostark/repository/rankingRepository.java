@@ -1,4 +1,4 @@
-package com.jinouk.lostark.simulator.repository;
+package com.jinouk.lostark.repository;
 
 import com.jinouk.lostark.entity.characterEntity;
 import org.springframework.data.domain.Pageable;

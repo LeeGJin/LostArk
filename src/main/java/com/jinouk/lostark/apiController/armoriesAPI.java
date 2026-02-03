@@ -26,14 +26,12 @@ public class armoriesAPI {
 
     @GetMapping("/stat")
     public Mono<String> stat(@RequestParam String name) {
-        //return service.getArmoriesCharacterProfile(name);
-        return parseProfile.getAndProcessProfile(name);
+        return service.getArmoriesCharacterProfile(name);
     }
 
     @GetMapping("/equipment")
     public Mono<?> equipment(@RequestParam String name) {
-        //return service.getArmoriesCharacterEquipment(name);
-        return parseWeapon.getAndProcessWeapon(name);
+        return service.getArmoriesCharacterEquipment(name);
     }
 
     @GetMapping("/avatars")

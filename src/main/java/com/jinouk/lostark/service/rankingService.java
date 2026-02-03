@@ -1,8 +1,8 @@
-package com.jinouk.lostark.simulator.service;
+package com.jinouk.lostark.service;
 
 import com.jinouk.lostark.dto.rankingDto;
 import com.jinouk.lostark.entity.characterEntity;
-import com.jinouk.lostark.simulator.repository.rankingRepository;
+import com.jinouk.lostark.repository.rankingRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
