@@ -1,13 +1,12 @@
 package com.jinouk.lostark.apiController;
 
 import com.jinouk.lostark.dto.rankingDto;
-import com.jinouk.lostark.simulator.service.rankingService;
+import com.jinouk.lostark.service.rankingService;
+import com.jinouk.lostark.service.rankingUpdateService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;
+import reactor.core.publisher.Mono;
 
 @RestController
 @RequiredArgsConstructor
@@ -15,10 +14,15 @@ import reactor.core.publisher.Flux;
 public class rankingController {
 
     private final rankingService rankingService;
+    private final rankingUpdateService rankingUpdateService;
 
-    /**
-     * 아이템 레벨 기준 전체 랭킹 조회
-     */
+    //characters 데이터 베이스 업데이트
+    @PostMapping("/update/{name}")
+    public Mono<rankingDto> updateCharacterData(@PathVariable String name) {
+        return rankingUpdateService.processCharacterUpdate(name);
+    }
+
+     //아이템 레벨 기준 전체 랭킹 조회
     @GetMapping("/item-level")
     public Flux<rankingDto> getItemLevelRanking(
             @RequestParam(defaultValue = "1") int page,
@@ -26,24 +30,21 @@ public class rankingController {
         return rankingService.getItemLevelRankings(page, size);
     }
 
-    /**
-     * 직업별 전투력 기준 랭킹 조회
-     */
+     //직업별 전투력 기준 랭킹 조회
     @GetMapping("/class")
     public Flux<rankingDto> getClassRanking(
-            @RequestParam String className,
+            @RequestParam(value = "className") String className, // 파라미터명 명시
             @RequestParam(defaultValue = "1") int page,
             @RequestParam(defaultValue = "20") int size) {
         return rankingService.getClassRankings(className, page, size);
     }
 
-    /**
-     * 전투력 기준 전체 랭킹 조회
-     */
+    //전투력 기준 전체 랭킹 조회
     @GetMapping("/combat-power")
     public Flux<rankingDto> getCombatPowerRanking(
             @RequestParam(defaultValue = "1") int page,
             @RequestParam(defaultValue = "20") int size) {
-        return rankingService.getCombatPowerRanking(page, size);
+        // 서비스 메서드명이 getCombatPowerRankings(복수형)인지 확인 필요
+        return rankingService.getCombatPowerRankings(page, size);
     }
 }

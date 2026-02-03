@@ -1,5 +1,6 @@
 package com.jinouk.lostark.dto;
 
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.jinouk.lostark.entity.characterEntity;
 import lombok.*;
 
@@ -8,6 +9,11 @@ import lombok.*;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
+@JsonPropertyOrder({
+        "rank", "name", "server", "characterClass", "itemLevel",
+        "weaponLevel", "combatPower", "stats", "arkPassive",
+        "arkpassiveIconUrl", "guildName", "iconUrl"
+})
 public class rankingDto {
     private int rank;
     private String name;
@@ -19,10 +25,25 @@ public class rankingDto {
     private String arkPassive;
     private String stats;
     private String guildName;
-    private String updatedAt;
+    private String iconUrl;
+    private String arkpassiveIconUrl;
 
-    // [표준화] DTO 변환 로직을 DTO 내부로 이동
-    public static rankingDto from(characterEntity entity, int rank) {
+    public rankingDto(int rank, String name, String server, String characterClass, double itemLevel,
+                      Integer weaponLevel, Integer combatPower, String arkPassive, String stats, String guildName, String iconUrl, String arkpassiveIconUrl) {
+        this.rank = rank;
+        this.name = name;
+        this.server = server;
+        this.characterClass = characterClass;
+        this.itemLevel = itemLevel;
+        this.weaponLevel = weaponLevel;
+        this.combatPower = combatPower;
+        this.arkPassive = arkPassive;
+        this.stats = stats;
+        this.guildName = guildName;
+        this.iconUrl = iconUrl;
+        this.arkpassiveIconUrl = arkpassiveIconUrl;
+    }
+    public static rankingDto fromEntity(characterEntity entity, int rank) {
         return rankingDto.builder()
                 .rank(rank)
                 .name(entity.getName())
@@ -34,7 +55,8 @@ public class rankingDto {
                 .arkPassive(entity.getArkPassive())
                 .stats(entity.getStats())
                 .guildName(entity.getGuildName())
-                .updatedAt(entity.getUpdatedAt() != null ? entity.getUpdatedAt().toString() : null)
+                .iconUrl(entity.getIconUrl())           // 엔티티에 저장된 캐릭터 이미지 주소
+                .arkpassiveIconUrl(entity.getArkpassiveIconUrl()) // 엔티티에 저장된 아이콘 주소
                 .build();
     }
 }
