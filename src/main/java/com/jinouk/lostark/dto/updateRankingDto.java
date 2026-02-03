@@ -2,6 +2,7 @@ package com.jinouk.lostark.dto;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.jinouk.lostark.apiController.charactersAPI;
+import com.jinouk.lostark.entity.characterEntity;
 import lombok.*;
 
 @Getter
@@ -29,7 +30,7 @@ public class updateRankingDto {
     private String arkpassiveIconUrl;
 
     public updateRankingDto(int rank, String name, String server, String characterClass, double itemLevel,
-                            Integer weaponLevel, Integer combatPower, String arkPassive, String stats, String guildName, String iconUrl, String arkpassiveIconUrl) {
+                            Integer weaponLevel, Integer combatPower, String arkPassive, String stats, String guildName,String iconUrl,String arkpassiveIconUrl) {
         this.rank = rank;
         this.name = name;
         this.server = server;
@@ -42,5 +43,21 @@ public class updateRankingDto {
         this.guildName = guildName;
         this.iconUrl = iconUrl;
         this.arkpassiveIconUrl = arkpassiveIconUrl;
+    }
+    public static updateRankingDto fromEntity(characterEntity entity, int rank) {
+        return updateRankingDto.builder()
+                .rank(rank)
+                .name(entity.getName())
+                .server(entity.getServer())
+                .characterClass(entity.getCharacterClass())
+                .itemLevel(entity.getItemLevel())
+                .weaponLevel(entity.getWeaponLevel())
+                .combatPower(entity.getCombatPower())
+                .arkPassive(entity.getArkPassive())
+                .stats(entity.getStats())
+                .guildName(entity.getGuildName())
+                .iconUrl(entity.getIconUrl())           // 엔티티에 저장된 캐릭터 이미지 주소
+                .arkpassiveIconUrl(entity.getArkpassiveIconUrl()) // 엔티티에 저장된 아이콘 주소
+                .build();
     }
 }

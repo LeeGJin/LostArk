@@ -1,10 +1,7 @@
 package com.jinouk.lostark.entity;
 
-import com.jinouk.lostark.dto.rankingDto;
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import com.jinouk.lostark.dto.updateRankingDto;
+import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
@@ -20,13 +17,13 @@ import java.time.LocalDateTime;
 public class characterEntity {
 
     @Id
-    @Column(name = "name", length = 50)
+    @Column(name = "name")
     private String name;
 
-    @Column(name = "server", nullable = false, length = 20)
+    @Column(name = "server")
     private String server;
 
-    @Column(name = "class", length = 30)
+    @Column(name = "class") // 말씀하신 'class' 칼럼명 반영
     private String characterClass;
 
     @Column(name = "item_level")
@@ -38,22 +35,34 @@ public class characterEntity {
     @Column(name = "combat_power")
     private Integer combatPower;
 
-    @Column(name = "ark_passive", columnDefinition = "json")
+    @Column(name = "ark_passive")
     private String arkPassive;
 
-    @Column(name = "stats", columnDefinition = "json")
+    @Column(name = "stats")
     private String stats;
 
-    @Column(name = "guild_name", length = 50)
+    @Column(name = "guild_name")
     private String guildName;
 
-    @Column(name = "updated_at", insertable = false, updatable = false)
+    @Column(name = "updated_at")
     private LocalDateTime updatedAt;
 
+    @Column(name = "icon_url")
+    private String iconUrl;
+
+    @Column(name = "ark_passive_icon_url")
+    private String arkpassiveIconUrl;
+
+    @PrePersist
+    @PreUpdate
+    public void updateTimestamp() {
+        this.updatedAt = LocalDateTime.now();
+    }
+
     /**
-     * [표준화] DTO 데이터를 엔티티에 반영하는 업데이트 로직
+     * DTO 데이터를 엔티티에 반영 (Update 시 사용)
      */
-    public void updateFromDto(rankingDto dto) {
+    public void updateFromDto(updateRankingDto dto) {
         this.server = dto.getServer();
         this.characterClass = dto.getCharacterClass();
         this.itemLevel = dto.getItemLevel();
@@ -62,13 +71,15 @@ public class characterEntity {
         this.arkPassive = dto.getArkPassive();
         this.stats = dto.getStats();
         this.guildName = dto.getGuildName();
-        // updatedAt은 DB의 ON UPDATE CURRENT_TIMESTAMP에 의해 자동 갱신됩니다.
+        this.iconUrl = dto.getIconUrl();
+        this.arkpassiveIconUrl = dto.getArkpassiveIconUrl();
+        // updatedAt은 @PreUpdate를 통해 자동 갱신
     }
 
     /**
-     * [표준화] DTO를 엔티티 객체로 변환하는 정적 메서드
+     * DTO를 엔티티 객체로 변환 (Insert 시 사용)
      */
-    public static characterEntity fromDto(rankingDto dto) {
+    public static characterEntity fromDto(updateRankingDto dto) {
         return characterEntity.builder()
                 .name(dto.getName())
                 .server(dto.getServer())
@@ -79,6 +90,8 @@ public class characterEntity {
                 .arkPassive(dto.getArkPassive())
                 .stats(dto.getStats())
                 .guildName(dto.getGuildName())
+                .iconUrl(dto.getIconUrl())
+                .arkpassiveIconUrl(dto.getArkpassiveIconUrl())
                 .build();
     }
 }

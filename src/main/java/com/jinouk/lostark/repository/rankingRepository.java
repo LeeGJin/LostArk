@@ -6,18 +6,22 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 import java.util.Optional;
 
+
 public interface rankingRepository extends JpaRepository<characterEntity, String> {
 
-    // 1. 기존 조회 기능 (유지)
+    // 1. [조회] 아이템 레벨/전투력 순으로 랭킹 목록 가져오기
+    // 페이징(Pageable)을 사용하여 상위 유저들을 끊어서 조회합니다.
     List<characterEntity> findAllByOrderByItemLevelDesc(Pageable pageable);
-    List<characterEntity> findAllByCharacterClassOrderByCombatPowerDesc(String characterClass, Pageable pageable);
     List<characterEntity> findAllByOrderByCombatPowerDesc(Pageable pageable);
 
-    // 2. 검색 및 업데이트를 위한 기능 추가
-    // 닉네임으로 유저가 있는지 확인 (PK가 name이므로 사실 findById와 동일하지만 명시적으로 작성)
+    // [조회] 특정 직업별 전투력 순위 조회
+    List<characterEntity> findAllByCharacterClassOrderByCombatPowerDesc(String characterClass, Pageable pageable);
+
+    // 2. [검색/수정] 닉네임으로 기존 유저 존재 여부 확인
+    // Optional을 사용하여 null 체크를 안전하게 처리합니다.
     Optional<characterEntity> findByName(String name);
 
-    // 3. Top 1000 관리를 위한 기능 추가
-    // 전투력 기준 오름차순(Asc)으로 정렬했을 때 가장 첫 번째 유저 = 현재 DB 내 최하위 전투력 유저
-    characterEntity findFirstByOrderByCombatPowerAsc();
+    // 3. [관리] Top 1000 유지를 위한 최하위 유저 찾기
+    // 아이템 레벨이 가장 낮은(Asc) 유저를 찾아 신규 진입자와 교체하기 위함입니다.
+    characterEntity findFirstByOrderByItemLevelAsc();
 }
