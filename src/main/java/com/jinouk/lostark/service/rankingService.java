@@ -56,4 +56,14 @@ public class rankingService {
                 .index()
                 .map(tuple -> rankingDto.fromEntity(tuple.getT2(), (int) (offset + tuple.getT1() + 1)));
     }
+
+    public Flux<rankingDto> getArkpassiveRankings(String className, String arkPassive,int page, int size) {
+        int offset = (page - 1) * size;
+        return Mono.fromCallable(() ->
+                        rankingRepository.findByCharacterClassAndArkPassiveOrderByCombatPowerDesc(className, arkPassive,PageRequest.of(page - 1, size)))
+                .subscribeOn(Schedulers.boundedElastic())
+                .flatMapMany(Flux::fromIterable)
+                .index()
+                .map(tuple -> rankingDto.fromEntity(tuple.getT2(), (int) (offset + tuple.getT1() + 1)));
+    }
 }
