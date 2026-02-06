@@ -17,6 +17,13 @@ public interface rankingRepository extends JpaRepository<characterEntity, String
     // [조회] 특정 직업별 전투력 순위 조회
     List<characterEntity> findAllByCharacterClassOrderByCombatPowerDesc(String characterClass, Pageable pageable);
 
+    // [추가 가능] 아크 패시브 포인트나 특정 스탯 기준 랭킹이 필요할 경우 추가
+    //List<characterEntity> findAllByArkPassiveOrderByCombatPowerDesc(String characterClass, Pageable pageable);
+    List<characterEntity> findByCharacterClassAndArkPassiveOrderByCombatPowerDesc(
+            String characterClass,
+            String arkPassive,
+            Pageable pageable
+    );
     // 2. [검색/수정] 닉네임으로 기존 유저 존재 여부 확인
     // Optional을 사용하여 null 체크를 안전하게 처리합니다.
     Optional<characterEntity> findByName(String name);

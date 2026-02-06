@@ -39,6 +39,16 @@ public class rankingController {
         return rankingService.getClassRankings(className, page, size);
     }
 
+    //아크패시브별 전투력 기준 랭킹 조회
+    @GetMapping("/arkpassive")
+    public Flux<rankingDto> getArkpassiveRanking(
+            @RequestParam("className") String className,
+            @RequestParam("arkPassive") String arkPassive, // 추가됨
+            @RequestParam(defaultValue = "1") int page,
+            @RequestParam(defaultValue = "20") int size) {
+        return rankingService.getArkpassiveRankings(className,arkPassive, page, size);
+    }
+
     //전투력 기준 전체 랭킹 조회
     @GetMapping("/combat-power")
     public Flux<rankingDto> getCombatPowerRanking(
