@@ -27,7 +27,7 @@ public class rankingUpdateService {
     private final OtherService otherService;
     private final ObjectMapper objectMapper;
     private final rankingRepository rankingRepository; // DB 레포지토리 주입 추가
-    private static final int MAX_RANKING_COUNT = 1000;
+    private static final int MAX_RANKING_COUNT = 10000;
 
 
     //메인 메서드: API에서 데이터를 가져와 가공한 후 DB에 저장합니다.
@@ -37,7 +37,7 @@ public class rankingUpdateService {
     }
 
 
-    //[DB 저장 로직] DTO를 엔티티로 변환하여 Upsert 및 1,000명 제한 적용
+    //[DB 저장 로직] DTO를 엔티티로 변환하여 Upsert 및 1,0000명 제한 적용
     private Mono<rankingDto> updateOrInsertToDb(rankingDto dto) {
         return Mono.fromCallable(() -> {
             // 1. 기존 유저 확인 (Update)
